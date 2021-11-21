@@ -4,7 +4,7 @@ from github import Github
 
 
 
-g = Github("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")
+g = Github("ADD_YOUR_OWN_API_KEY")
 
 # STEP 1: Go to https://github.com/ipfs/go-ipfs
 

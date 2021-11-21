@@ -8,6 +8,8 @@ authors = ["Matthew Aylward <matthewtyleraylward@hotmail.com>"]
 python = "^3.8"
 PyDriller = "^2.0"
 PyGithub = "^1.55"
+pydantic = "^1.8.2"
+fastapi = "^0.70.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

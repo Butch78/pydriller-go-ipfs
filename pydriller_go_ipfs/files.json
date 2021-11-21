@@ -1,0 +1,4704 @@
+{
+    "Files": {
+        "pin.go": {
+            "file_name": "pin.go",
+            "commits": [
+                {
+                    "commit_id": "b0ea0b4d7dd32fbc4d49a0d9348066a1e60c409e",
+                    "nloc": 183,
+                    "complexity": 43
+                },
+                {
+                    "commit_id": "7c777eb83b7b474c6f697dafbbb20cad8a8801c2",
+                    "nloc": 453,
+                    "complexity": 49
+                },
+                {
+                    "commit_id": "c69e347be098c84becd0aef86550b1ef533494fe",
+                    "nloc": 456,
+                    "complexity": 49
+                },
+                {
+                    "commit_id": "456137b3fa9bdb3a012063cae102b039901dea56",
+                    "nloc": 453,
+                    "complexity": 48
+                },
+                {
+                    "commit_id": "6ef190f5a646b51ea092b7e35479cca26c187d89",
+                    "nloc": 619,
+                    "complexity": 5
+                },
+                {
+                    "commit_id": "6ef190f5a646b51ea092b7e35479cca26c187d89",
+                    "nloc": 260,
+                    "complexity": 58
+                },
+                {
+                    "commit_id": "6388f5a1c2439a3d3677f67c0deb79d3cb91f504",
+                    "nloc": 277,
+                    "complexity": 63
+                },
+                {
+                    "commit_id": "6871e6d056c5d50c8071ec29db1b67a5bbcf15dc",
+                    "nloc": 622,
+                    "complexity": 5
+                },
+                {
+                    "commit_id": "7d95359c3e01c85d8fe394b1e24769353d74c6bf",
+                    "nloc": 277,
+                    "complexity": 63
+                },
+                {
+                    "commit_id": "a8c7980721909f9cd16c35d699bc481574512c38",
+                    "nloc": 623,
+                    "complexity": 5
+                },
+                {
+                    "commit_id": "07aa00dfa69e81a7dd5623d82ed130a46dd9c188",
+                    "nloc": 274,
+                    "complexity": 62
+                },
+                {
+                    "commit_id": "17d533909b88a47af8dedb0aa29e4943f7d383e9",
+                    "nloc": 623,
+                    "complexity": 5
+                },
+                {
+                    "commit_id": "83d94d26d96ad5b4a82492fae4cd5aba6eba94fa",
+                    "nloc": 623,
+                    "complexity": 5
+                },
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 623,
+                    "complexity": 5
+                },
+                {
+                    "commit_id": "efa55e02a513ccf24da3ee0144628a6895b66cab",
+                    "nloc": 623,
+                    "complexity": 5
+                },
+                {
+                    "commit_id": "fb55f09882c0b0dcf395645b56d34be3840aceba",
+                    "nloc": 274,
+                    "complexity": 62
+                },
+                {
+                    "commit_id": "8eefcce4a1af26dfe99b4a37cef9c621abd42b33",
+                    "nloc": 630,
+                    "complexity": 5
+                }
+            ]
+        },
+        "block.go": {
+            "file_name": "block.go",
+            "commits": [
+                {
+                    "commit_id": "a7d3d0318f63fd6855ac80adbb00c3177b2f1b54",
+                    "nloc": 235,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "a7d3d0318f63fd6855ac80adbb00c3177b2f1b54",
+                    "nloc": 118,
+                    "complexity": 27
+                }
+            ]
+        },
+        "groups.go": {
+            "file_name": "groups.go",
+            "commits": [
+                {
+                    "commit_id": "d1f9efb3fc92cefd7b6d5dc147af11dc17a8a910",
+                    "nloc": 245,
+                    "complexity": 42
+                },
+                {
+                    "commit_id": "6131b7f14572b1ea59a8281cb31254a57829ea97",
+                    "nloc": 244,
+                    "complexity": 42
+                },
+                {
+                    "commit_id": "2dc1f691f1bb98cadd7e7867cb924ce69f126751",
+                    "nloc": 228,
+                    "complexity": 39
+                },
+                {
+                    "commit_id": "03c1f769d711f90d6d2ea656a7a9701512a86755",
+                    "nloc": 227,
+                    "complexity": 39
+                },
+                {
+                    "commit_id": "4714c0ceccd9808b89a4e62783997962a7af9f68",
+                    "nloc": 227,
+                    "complexity": 39
+                },
+                {
+                    "commit_id": "978091a626a0e1f00a797fc4e2de99f4bfee943b",
+                    "nloc": 229,
+                    "complexity": 39
+                },
+                {
+                    "commit_id": "d48b80b30e72b528e1232e549b2fb3def45be078",
+                    "nloc": 229,
+                    "complexity": 39
+                },
+                {
+                    "commit_id": "e164af1f2ac6daaec78d56340e43333d9147e20d",
+                    "nloc": 240,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "543c5da34a9678b72dfeaaa28bcb66e8d57cd263",
+                    "nloc": 243,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "531e9c137d571699dd19f2ed3aed195f03c8d57b",
+                    "nloc": 243,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "664c66c3f374706dc05c90590c960df4ad994535",
+                    "nloc": 243,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "2fd55d198cb2dec4caf1170955a9934cbb3b64e1",
+                    "nloc": 243,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "cf45f1a8621b965eb89bebaca5574bb8cb53ca43",
+                    "nloc": 243,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "f63a997c353a6d14311c5558a09c3d509bb909d2",
+                    "nloc": 242,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "7448340d20e0a4e46cfddd8e278f155591dd164a",
+                    "nloc": 242,
+                    "complexity": 41
+                }
+            ]
+        },
+        "version.go": {
+            "file_name": "version.go",
+            "commits": [
+                {
+                    "commit_id": "c6770c9cd7cd074b07839cb78ea33cab4889a179",
+                    "nloc": 4,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "4e981576b71665f2a9ba71fbf479204802a03a37",
+                    "nloc": 4,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "c81bcc075f81a563da0571c52ba539c1c0d0592a",
+                    "nloc": 4,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "c0cd45292631e45b72d3d40e59c15e4d5352328a",
+                    "nloc": 4,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "6ce9a355f9757a921d1e30f4a702028d5e4fb7eb",
+                    "nloc": 4,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "ff84666a53363f50caed6bbc51fc925227d80194",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "75d1cb07ec40e7458ccaf7a2a77126656780c0ed",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "aa169520cd5cdad9810a095243d32b09e43e3339",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "96677e00d6b1479e679faab587fd134536779bfe",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "3ba1400bfed0ff161153c8016140421b53df3f63",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "3d0899f4893a03fb20d95d93912d04c4d3af968a",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "444bb02abbb92a325bcc710418ce43016b4c31cb",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "63ff04c4cf6547ad5ecc1048463f2c3b5019419c",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "5a19539223fa5b65eb491b5e2180c369e7ed1137",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "b86e93045aaa0ac357d939884e1c7996b0fcdbd4",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 132,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "901c58b991533240ec36c27ba334c0ba62256701",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "38e9ff44165568ed2f90404bbaa423a694cabb52",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "fafec57ee637c938aeba4170b2ee88864fde0fbc",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "12f5c19fcf7114d95d2f69fd89c98ae1f25ef9a3",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "02d15ac4146988baf9cd1e8f2ce432f25fb06776",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "6af614615677f2ee22d5b6163402f3ee70c52579",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "4080333de16ff06eaa0c0d74e461e370a038ffcd",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "9a20c9ebf22b08139f1a2bca8657bfddd3cd52c5",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 132,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "01ef535aab8f531c78b18dd41ae71093642928b2",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "40419ac025561adf2b8076edc991daa3ac58f5c3",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "4d31ec1b8f8fe82c17a52036b7483a8d7569db9e",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "e5b02b3de99ceaf3a5d913e93eb11e0139af4f8a",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "3b21fcfb8988435a08130d09cf2f9be724a856c8",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "722fc4fa4c2fb501615825353d2c1dc10bbb832e",
+                    "nloc": 135,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "2d39130adef756d31f94adbcd6666af1f021382c",
+                    "nloc": 5,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "94bd2981b920cd2104ef79a96e55ad8471e27e9a",
+                    "nloc": 18,
+                    "complexity": 4
+                },
+                {
+                    "commit_id": "2f94dd094905a6a0aeb3921242bf9bccd9c5768c",
+                    "nloc": 18,
+                    "complexity": 4
+                },
+                {
+                    "commit_id": "72982d42c9659baf614ba043051ccb2f1190b2d8",
+                    "nloc": 18,
+                    "complexity": 4
+                }
+            ]
+        },
+        "peerstore.go": {
+            "file_name": "peerstore.go",
+            "commits": [
+                {
+                    "commit_id": "6131b7f14572b1ea59a8281cb31254a57829ea97",
+                    "nloc": 16,
+                    "complexity": 1
+                }
+            ]
+        },
+        "main.go": {
+            "file_name": "main.go",
+            "commits": [
+                {
+                    "commit_id": "71133b6765136f688c5518151545ea6c4ef9d2b6",
+                    "nloc": null,
+                    "complexity": null
+                },
+                {
+                    "commit_id": "2dc1f691f1bb98cadd7e7867cb924ce69f126751",
+                    "nloc": 230,
+                    "complexity": 44
+                },
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 282,
+                    "complexity": 71
+                },
+                {
+                    "commit_id": "b88bdfeb9db0677213f57466b8b617fa3284b107",
+                    "nloc": 282,
+                    "complexity": 71
+                },
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 192,
+                    "complexity": 45
+                },
+                {
+                    "commit_id": "d6f442bb86d3429ebea7dce163b82a676bf4d289",
+                    "nloc": 229,
+                    "complexity": 44
+                },
+                {
+                    "commit_id": "4a9dace8140adfbdf3e1508368e12d17b70ff9ae",
+                    "nloc": 234,
+                    "complexity": 46
+                },
+                {
+                    "commit_id": "67fdd6e8765bf52e51b2490fb3cc6378bbc29ca7",
+                    "nloc": 234,
+                    "complexity": 46
+                },
+                {
+                    "commit_id": "da0afea33b3a431ea6bf7154ec6a9f783d38aefb",
+                    "nloc": 234,
+                    "complexity": 46
+                },
+                {
+                    "commit_id": "d00e9656acfc1c5b8e75245d9d90dd368f0212ab",
+                    "nloc": 234,
+                    "complexity": 46
+                },
+                {
+                    "commit_id": "f00f7d2464b120609420bf0ef35ad50bfad6d895",
+                    "nloc": 249,
+                    "complexity": 48
+                }
+            ]
+        },
+        "namesys.go": {
+            "file_name": "namesys.go",
+            "commits": [
+                {
+                    "commit_id": "36c0cbf4e17cafc3d0f0aeb5bbb362cb41de3d8b",
+                    "nloc": 149,
+                    "complexity": 35
+                },
+                {
+                    "commit_id": "00de344318e60f2872e53c35240db92ae6f82727",
+                    "nloc": 181,
+                    "complexity": 42
+                },
+                {
+                    "commit_id": "0f3bc6552f6a09bddf369e67393a95b546159136",
+                    "nloc": 176,
+                    "complexity": 40
+                },
+                {
+                    "commit_id": "a1ae867badcd15527b4cc53ab8c40342247b2016",
+                    "nloc": 180,
+                    "complexity": 41
+                }
+            ]
+        },
+        "unixfs.go": {
+            "file_name": "unixfs.go",
+            "commits": [
+                {
+                    "commit_id": "6ded0ba0f83345afd0d62a5437b74d9a16543ef5",
+                    "nloc": 199,
+                    "complexity": 47
+                },
+                {
+                    "commit_id": "745708b85ec8977f17b88fedfb30ce181bb53ff7",
+                    "nloc": 200,
+                    "complexity": 47
+                },
+                {
+                    "commit_id": "9aa2f07f1f056f46844ead8db32cc457c6970b61",
+                    "nloc": 215,
+                    "complexity": 51
+                }
+            ]
+        },
+        "gateway_handler.go": {
+            "file_name": "gateway_handler.go",
+            "commits": [
+                {
+                    "commit_id": "455e49835500fb46053f68d1236a103d75db18df",
+                    "nloc": 481,
+                    "complexity": 103
+                },
+                {
+                    "commit_id": "d8bc5c991e29c5de0c090ff851f6abdf00180a67",
+                    "nloc": 463,
+                    "complexity": 100
+                },
+                {
+                    "commit_id": "46ae021733e825cb46c915518897816b191c60ef",
+                    "nloc": 463,
+                    "complexity": 100
+                },
+                {
+                    "commit_id": "2e87ac88a35f15d06702594c2ddad27c2606ee90",
+                    "nloc": 464,
+                    "complexity": 100
+                },
+                {
+                    "commit_id": "9201b1dde6f994d918825488fa879431bcb7e8b7",
+                    "nloc": 467,
+                    "complexity": 101
+                },
+                {
+                    "commit_id": "214d29ebf8859ff0550c9b0f2fd21958d67b370a",
+                    "nloc": 467,
+                    "complexity": 101
+                },
+                {
+                    "commit_id": "e93f2002f592e018e97eecb30d6a12f48908af23",
+                    "nloc": 467,
+                    "complexity": 101
+                },
+                {
+                    "commit_id": "dfceafdbd3debca60959bdb9ecb28dd4c431c163",
+                    "nloc": 532,
+                    "complexity": 117
+                },
+                {
+                    "commit_id": "7c7888c4db5a0d552ec174687275549fdd0908fd",
+                    "nloc": 532,
+                    "complexity": 117
+                },
+                {
+                    "commit_id": "d4952f2a73b2dd33d8c35ab1bae3bc381fdb5088",
+                    "nloc": 533,
+                    "complexity": 117
+                },
+                {
+                    "commit_id": "6a2fe0a20de795732477c707b606eb947a326402",
+                    "nloc": 530,
+                    "complexity": 116
+                },
+                {
+                    "commit_id": "2d5f8b4ebe015817b2ea285a4d589e5d796bf8a3",
+                    "nloc": 537,
+                    "complexity": 118
+                },
+                {
+                    "commit_id": "044790a83857c4b396ce5c336045d6b10f5e4075",
+                    "nloc": 560,
+                    "complexity": 121
+                },
+                {
+                    "commit_id": "fd01acdfc0cede60706d59cfdeaa9784c8f7c8f3",
+                    "nloc": 564,
+                    "complexity": 122
+                },
+                {
+                    "commit_id": "19ec5f4a51e9c53c8d6b2df7d8472058d342b4c6",
+                    "nloc": 567,
+                    "complexity": 122
+                },
+                {
+                    "commit_id": "cd1feb3af4e42a835870aca96243b55760ab5f04",
+                    "nloc": 560,
+                    "complexity": 121
+                },
+                {
+                    "commit_id": "c94bd768d2f755c8825674e72539d49a82503d12",
+                    "nloc": 562,
+                    "complexity": 121
+                },
+                {
+                    "commit_id": "3ed46d995fee555f924b9163e491e37845ad8818",
+                    "nloc": 562,
+                    "complexity": 121
+                },
+                {
+                    "commit_id": "6ffd0aa22ea6a454740c3b8c83a566d4faa3dc62",
+                    "nloc": 571,
+                    "complexity": 123
+                },
+                {
+                    "commit_id": "36368ee4ddfb8943d96f2e34b3283d11a1498ff6",
+                    "nloc": 586,
+                    "complexity": 127
+                },
+                {
+                    "commit_id": "3de5b14e0c248ab1f611215836ace4e134a25b61",
+                    "nloc": 595,
+                    "complexity": 129
+                },
+                {
+                    "commit_id": "abb25a1cfc202ab4427bb1d3fa0c16d6e2700bd5",
+                    "nloc": 590,
+                    "complexity": 128
+                },
+                {
+                    "commit_id": "15e3732afd29b380f6a12b06303dce49abe46f82",
+                    "nloc": 596,
+                    "complexity": 129
+                },
+                {
+                    "commit_id": "dae7387584ed15beebac70e32b878113cdb904b6",
+                    "nloc": 611,
+                    "complexity": 130
+                },
+                {
+                    "commit_id": "b81b7549d34e0b549c0035286bdd02b2be50030c",
+                    "nloc": 624,
+                    "complexity": 131
+                },
+                {
+                    "commit_id": "450baef0e9c113e4751b559dd0562f7c98302668",
+                    "nloc": 626,
+                    "complexity": 133
+                },
+                {
+                    "commit_id": "a35ffee1364b72e50f66fdd1a03f7a3665d99309",
+                    "nloc": 630,
+                    "complexity": 134
+                },
+                {
+                    "commit_id": "763a120ed28c6cd2e77077c6bb0281c583a6b580",
+                    "nloc": 630,
+                    "complexity": 135
+                },
+                {
+                    "commit_id": "2f105f79b9fc12c4321a2333652ba1a7fb17e936",
+                    "nloc": 590,
+                    "complexity": 128
+                },
+                {
+                    "commit_id": "66a76d27f36f202f006a6fe04809df1a3529a3be",
+                    "nloc": 632,
+                    "complexity": 135
+                },
+                {
+                    "commit_id": "02823935aaf5920148059eb5c58a80bd9a36e36c",
+                    "nloc": 649,
+                    "complexity": 137
+                }
+            ]
+        },
+        "relay.go": {
+            "file_name": "relay.go",
+            "commits": [
+                {
+                    "commit_id": "1045a31e1d4151f90f58d71340b621bcc087d72b",
+                    "nloc": 20,
+                    "complexity": 4
+                },
+                {
+                    "commit_id": "e164af1f2ac6daaec78d56340e43333d9147e20d",
+                    "nloc": 20,
+                    "complexity": 4
+                }
+            ]
+        },
+        "webui.go": {
+            "file_name": "webui.go",
+            "commits": [
+                {
+                    "commit_id": "b2777eebbf0bc5a840bf94d1c27d75a68aa23001",
+                    "nloc": 33,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "58aac04a53d60d683cbe64fc26f6b0abac4e855b",
+                    "nloc": 35,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "0f76ed79f97de7d2c886385ada0030b2e8ee42c8",
+                    "nloc": 36,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "bd9382fe41e2946ac80ee4156ed4c11d3defc311",
+                    "nloc": 35,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "5be7e0f8dea4595496dcfa1e52a9380e1f83e551",
+                    "nloc": 36,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "cc4a136360697ec7633fe19db80555de2af5e58b",
+                    "nloc": 37,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "4c38ea748a6d7f6d5b9d4900dc77f976d049d427",
+                    "nloc": 38,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "e3905e1fdc7551980dc3874e71f0b43e1831deff",
+                    "nloc": 39,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "1b4f5e72ad11c42e6a9e12b3799c97e17a0bb617",
+                    "nloc": 41,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "54e743779cf279c0328c6b4b523c888382a71de2",
+                    "nloc": 41,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "43b8a314f16a90bf5be7e85bb719a216fc425c14",
+                    "nloc": 42,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "00147106f42158fccee0f74373cd86dec977b23d",
+                    "nloc": 42,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "f62656630bf6eedd75b6f87f53cae930cd6bb824",
+                    "nloc": 42,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "a006ded0101c679d6bc38ef3aee36c2d4e04ea43",
+                    "nloc": 43,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "a9868105f09438d3d6dd3fc3b2a2c85d1bc3fde8",
+                    "nloc": 43,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "2c431eb825b3a8ab39eafdf29c41fcc4c25c529d",
+                    "nloc": 43,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "73e35592877820875d334f33a915651ee0530191",
+                    "nloc": 43,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "c7444fb61a4f965b789e4c69942ccc5ad261dce0",
+                    "nloc": 44,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "1df585b10ccf0bc4eceb3ef91fdef8c9f1f2de4b",
+                    "nloc": 44,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "f7fd3e57a1ce5bbeb78db5c276e4efe780527d60",
+                    "nloc": 45,
+                    "complexity": 0
+                }
+            ]
+        },
+        "gateway_test.go": {
+            "file_name": "gateway_test.go",
+            "commits": [
+                {
+                    "commit_id": "46ae021733e825cb46c915518897816b191c60ef",
+                    "nloc": 504,
+                    "complexity": 100
+                },
+                {
+                    "commit_id": "dfceafdbd3debca60959bdb9ecb28dd4c431c163",
+                    "nloc": 560,
+                    "complexity": 108
+                },
+                {
+                    "commit_id": "6a2fe0a20de795732477c707b606eb947a326402",
+                    "nloc": 560,
+                    "complexity": 109
+                },
+                {
+                    "commit_id": "4dbdbe0e029d5af826919376579268da0bc68019",
+                    "nloc": 554,
+                    "complexity": 110
+                },
+                {
+                    "commit_id": "2feff332354b376a211c956902e0ad64de61fa0c",
+                    "nloc": 565,
+                    "complexity": 110
+                },
+                {
+                    "commit_id": "cd1feb3af4e42a835870aca96243b55760ab5f04",
+                    "nloc": 559,
+                    "complexity": 111
+                },
+                {
+                    "commit_id": "3ed46d995fee555f924b9163e491e37845ad8818",
+                    "nloc": 565,
+                    "complexity": 113
+                },
+                {
+                    "commit_id": "36368ee4ddfb8943d96f2e34b3283d11a1498ff6",
+                    "nloc": 601,
+                    "complexity": 119
+                },
+                {
+                    "commit_id": "3de5b14e0c248ab1f611215836ace4e134a25b61",
+                    "nloc": 604,
+                    "complexity": 119
+                },
+                {
+                    "commit_id": "a0f90d3a140a4616c5930bcb8c62445717ccc857",
+                    "nloc": 605,
+                    "complexity": 119
+                },
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 605,
+                    "complexity": 119
+                },
+                {
+                    "commit_id": "94bd2981b920cd2104ef79a96e55ad8471e27e9a",
+                    "nloc": 605,
+                    "complexity": 119
+                }
+            ]
+        },
+        "publisher.go": {
+            "file_name": "publisher.go",
+            "commits": [
+                {
+                    "commit_id": "52344abd313d6715caf73c0045709f0d0a3f1e49",
+                    "nloc": 219,
+                    "complexity": 53
+                },
+                {
+                    "commit_id": "b1e0f78f5611ec3c3f6d68604f994bf4beb6235d",
+                    "nloc": 219,
+                    "complexity": 53
+                }
+            ]
+        },
+        "root.go": {
+            "file_name": "root.go",
+            "commits": [
+                {
+                    "commit_id": "a048008c5bbb27a6c6f84755fe0cb92898747ac4",
+                    "nloc": 181,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "8ae5aa56d1a196b25d22a4237ccf035deb9130f7",
+                    "nloc": 182,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "a8c7980721909f9cd16c35d699bc481574512c38",
+                    "nloc": 183,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "17d533909b88a47af8dedb0aa29e4943f7d383e9",
+                    "nloc": 183,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 183,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "5fad09909f7152b96bc180aeb6dcec1dd91ddfdd",
+                    "nloc": 183,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "f91411362baf0812150042e596292baf3854d43a",
+                    "nloc": 183,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "c4b6366536dfb59dbe06c5500bf8eed75897f4a2",
+                    "nloc": 185,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "8c1e4e99d115f8481136b8c12293a58acdcc7872",
+                    "nloc": 184,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "0f1e5be1be94656ffd3ffb26350e0aeca64644e4",
+                    "nloc": 185,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "7db27bf83a10cd9804a4be8e7421b5ed52bda461",
+                    "nloc": 188,
+                    "complexity": 1
+                }
+            ]
+        },
+        "bindata.go": {
+            "file_name": "bindata.go",
+            "commits": [
+                {
+                    "commit_id": "c44af565763444c0a003fb1ceadcaf9f42c7cbc1",
+                    "nloc": 327,
+                    "complexity": 65
+                },
+                {
+                    "commit_id": "9d92823dad725cd0f885c06ff6efe64a3a17b81c",
+                    "nloc": 327,
+                    "complexity": 65
+                },
+                {
+                    "commit_id": "4aa210c66af1e2950b6b8b6710a6461d041876f7",
+                    "nloc": 327,
+                    "complexity": 65
+                },
+                {
+                    "commit_id": "9e95a82a05d285368f6e963ea19e39258f8af9dc",
+                    "nloc": 327,
+                    "complexity": 65
+                },
+                {
+                    "commit_id": "8ffb7ec6df9ad2a16257ff44870ed4000c9401c1",
+                    "nloc": 327,
+                    "complexity": 65
+                },
+                {
+                    "commit_id": "c94bd768d2f755c8825674e72539d49a82503d12",
+                    "nloc": 327,
+                    "complexity": 65
+                },
+                {
+                    "commit_id": "17d533909b88a47af8dedb0aa29e4943f7d383e9",
+                    "nloc": 327,
+                    "complexity": 65
+                }
+            ]
+        },
+        "fsrepo.go": {
+            "file_name": "fsrepo.go",
+            "commits": [
+                {
+                    "commit_id": "17ec10436f22a63e4c0e05375df329428f7fa0a8",
+                    "nloc": 505,
+                    "complexity": 119
+                },
+                {
+                    "commit_id": "03b1a603c3c7a8b7de79dc9ea04012f14af761de",
+                    "nloc": 505,
+                    "complexity": 119
+                },
+                {
+                    "commit_id": "0a17fc87642a8677fa4844904043cf7e318145f8",
+                    "nloc": 513,
+                    "complexity": 121
+                },
+                {
+                    "commit_id": "3119f85e72f0532565605f4b64cd1c284ded54c7",
+                    "nloc": 513,
+                    "complexity": 121
+                },
+                {
+                    "commit_id": "a76d80cf4c54bfde4452755b8752b8bb361c51a3",
+                    "nloc": 513,
+                    "complexity": 121
+                },
+                {
+                    "commit_id": "a37ff1fe2663b31d49d0c6a5c214955520657a11",
+                    "nloc": 479,
+                    "complexity": 111
+                },
+                {
+                    "commit_id": "9bc8f6d5b514cb599cbb1999ca22c933f7d77d50",
+                    "nloc": 479,
+                    "complexity": 111
+                },
+                {
+                    "commit_id": "e37d08f2104cbf5d5c639a791404b31570a27a7d",
+                    "nloc": 479,
+                    "complexity": 111
+                },
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 479,
+                    "complexity": 111
+                },
+                {
+                    "commit_id": "c54cdaa1f87507ba1048c8d450dc43e6db6eb1d7",
+                    "nloc": 479,
+                    "complexity": 111
+                }
+            ]
+        },
+        "plugin.go": {
+            "file_name": "plugin.go",
+            "commits": [
+                {
+                    "commit_id": "0cc3d7a1f40d9634e5739c1e2483bc42559da29f",
+                    "nloc": 10,
+                    "complexity": 0
+                }
+            ]
+        },
+        "migrations.go": {
+            "file_name": "migrations.go",
+            "commits": [
+                {
+                    "commit_id": "d31a5b360179f91f4f4f20255b2659c5a7038c28",
+                    "nloc": 212,
+                    "complexity": 48
+                },
+                {
+                    "commit_id": "3119f85e72f0532565605f4b64cd1c284ded54c7",
+                    "nloc": 212,
+                    "complexity": 48
+                },
+                {
+                    "commit_id": "a76d80cf4c54bfde4452755b8752b8bb361c51a3",
+                    "nloc": 212,
+                    "complexity": 48
+                },
+                {
+                    "commit_id": "f01c9625f337661b8de9b4e8db03bb5171e7d920",
+                    "nloc": 212,
+                    "complexity": 48
+                },
+                {
+                    "commit_id": "ed1e54ebf8e4b52f34471de4ce7f40d0ba9a3240",
+                    "nloc": 212,
+                    "complexity": 48
+                },
+                {
+                    "commit_id": "b422c01a2a6540a04aa647cec238981f7796f4de",
+                    "nloc": 212,
+                    "complexity": 48
+                },
+                {
+                    "commit_id": "9a06fdf0ccbacec2c621338265df2a70601e5f31",
+                    "nloc": 212,
+                    "complexity": 48
+                },
+                {
+                    "commit_id": "02733f7355376e7ba86aaf1a3f09b3f8dcea531d",
+                    "nloc": 215,
+                    "complexity": 49
+                },
+                {
+                    "commit_id": "8a05c59d3dc6205e72c9c59b40cda0d10efa4a64",
+                    "nloc": 215,
+                    "complexity": 49
+                },
+                {
+                    "commit_id": "884a5aebd748336db963e91daf7b916054486a99",
+                    "nloc": 215,
+                    "complexity": 49
+                },
+                {
+                    "commit_id": "e37d08f2104cbf5d5c639a791404b31570a27a7d",
+                    "nloc": 169,
+                    "complexity": 37
+                },
+                {
+                    "commit_id": "5a3e567321401851e66afb42e85c063feaa6dfb9",
+                    "nloc": 169,
+                    "complexity": 37
+                },
+                {
+                    "commit_id": "01df5bd2118d351a9d18428d9b1b44f3eb0c7950",
+                    "nloc": 169,
+                    "complexity": 37
+                },
+                {
+                    "commit_id": "afcda7c05b6b37f392390202d13eda00650045cf",
+                    "nloc": 174,
+                    "complexity": 38
+                },
+                {
+                    "commit_id": "9d1fdccdca84a13b0c7760bb90c0088973f5a63b",
+                    "nloc": 174,
+                    "complexity": 38
+                },
+                {
+                    "commit_id": "515381da1286b967c2e1566a93f7c51b0699ebe2",
+                    "nloc": 174,
+                    "complexity": 38
+                },
+                {
+                    "commit_id": "fcbe47bc4be7e08239ee0819cf279a7f596b6e29",
+                    "nloc": 177,
+                    "complexity": 40
+                },
+                {
+                    "commit_id": "1530cd2ceab3925d0203972869b0cbf296ecea72",
+                    "nloc": 177,
+                    "complexity": 40
+                },
+                {
+                    "commit_id": "fe97eee1c90bc8ca29bc84753b7c723615688f2d",
+                    "nloc": 177,
+                    "complexity": 40
+                },
+                {
+                    "commit_id": "7c8df87cd0710db66b36d875dd2545c180af1e8a",
+                    "nloc": 178,
+                    "complexity": 40
+                },
+                {
+                    "commit_id": "c54cdaa1f87507ba1048c8d450dc43e6db6eb1d7",
+                    "nloc": 178,
+                    "complexity": 40
+                },
+                {
+                    "commit_id": "3b6f57788bf9d0be3e7b45d9c52813d17d71732b",
+                    "nloc": 247,
+                    "complexity": 58
+                }
+            ]
+        },
+        "commands_test.go": {
+            "file_name": "commands_test.go",
+            "commits": [
+                {
+                    "commit_id": "5751917f4979baa3faab193f3579d4f1e7383b6f",
+                    "nloc": 239,
+                    "complexity": 16
+                },
+                {
+                    "commit_id": "a0656402ed9cb527aedee902b4e65f4cd63dfb7a",
+                    "nloc": 242,
+                    "complexity": 16
+                },
+                {
+                    "commit_id": "a70d04b68f3433208c89a406b6429919660f7c07",
+                    "nloc": 241,
+                    "complexity": 16
+                },
+                {
+                    "commit_id": "0f658484d1d5db63827f376d0f7ffb66c9bfb578",
+                    "nloc": 242,
+                    "complexity": 16
+                },
+                {
+                    "commit_id": "8ae5aa56d1a196b25d22a4237ccf035deb9130f7",
+                    "nloc": 244,
+                    "complexity": 16
+                },
+                {
+                    "commit_id": "a8c7980721909f9cd16c35d699bc481574512c38",
+                    "nloc": 252,
+                    "complexity": 16
+                },
+                {
+                    "commit_id": "7406b8399084dbf5c17c66f357b6c458cf46ce45",
+                    "nloc": 253,
+                    "complexity": 16
+                },
+                {
+                    "commit_id": "cf45f1a8621b965eb89bebaca5574bb8cb53ca43",
+                    "nloc": 254,
+                    "complexity": 16
+                },
+                {
+                    "commit_id": "0060d5f7c8a14931b75af8eda20bd327c08c675b",
+                    "nloc": 258,
+                    "complexity": 16
+                },
+                {
+                    "commit_id": "77f3fed5a1f0aebe4fcf5658abe7e582d5597b96",
+                    "nloc": 259,
+                    "complexity": 16
+                },
+                {
+                    "commit_id": "7db27bf83a10cd9804a4be8e7421b5ed52bda461",
+                    "nloc": 263,
+                    "complexity": 16
+                },
+                {
+                    "commit_id": "6288f0b5ad8eed3c82f2e8bd596f41e3540841a1",
+                    "nloc": 267,
+                    "complexity": 16
+                },
+                {
+                    "commit_id": "ef5dd4a186a8d54193ab1fbb8ed4274ac623082b",
+                    "nloc": 268,
+                    "complexity": 16
+                }
+            ]
+        },
+        "stat.go": {
+            "file_name": "stat.go",
+            "commits": [
+                {
+                    "commit_id": "5751917f4979baa3faab193f3579d4f1e7383b6f",
+                    "nloc": 172,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "6e2b1667733c74ca25780d29829474a5cda15baa",
+                    "nloc": 76,
+                    "complexity": 8
+                },
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 172,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "cf45f1a8621b965eb89bebaca5574bb8cb53ca43",
+                    "nloc": 173,
+                    "complexity": 1
+                }
+            ]
+        },
+        "stat_dht.go": {
+            "file_name": "stat_dht.go",
+            "commits": [
+                {
+                    "commit_id": "5751917f4979baa3faab193f3579d4f1e7383b6f",
+                    "nloc": 163,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 163,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "2fd55d198cb2dec4caf1170955a9934cbb3b64e1",
+                    "nloc": 208,
+                    "complexity": 0
+                }
+            ]
+        },
+        "ipns_unix.go": {
+            "file_name": "ipns_unix.go",
+            "commits": [
+                {
+                    "commit_id": "391d345622e055c9b1b9bd272aabd4a2f61a9002",
+                    "nloc": 452,
+                    "complexity": 21
+                },
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 452,
+                    "complexity": 21
+                }
+            ]
+        },
+        "swarm.go": {
+            "file_name": "swarm.go",
+            "commits": [
+                {
+                    "commit_id": "69ccf9991543f67d5c133836c4ad53af99affce6",
+                    "nloc": 640,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "543c5da34a9678b72dfeaaa28bcb66e8d57cd263",
+                    "nloc": 648,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "0a6d78c66aca6fdc455f3d70cd3797361b1f0fcf",
+                    "nloc": 126,
+                    "complexity": 14
+                },
+                {
+                    "commit_id": "6288f0b5ad8eed3c82f2e8bd596f41e3540841a1",
+                    "nloc": 779,
+                    "complexity": 0
+                }
+            ]
+        },
+        "core.go": {
+            "file_name": "core.go",
+            "commits": [
+                {
+                    "commit_id": "69ccf9991543f67d5c133836c4ad53af99affce6",
+                    "nloc": 126,
+                    "complexity": 7
+                },
+                {
+                    "commit_id": "978091a626a0e1f00a797fc4e2de99f4bfee943b",
+                    "nloc": 128,
+                    "complexity": 7
+                },
+                {
+                    "commit_id": "0b1276db596e9d1cfdf1bc584f8ee3344a76910d",
+                    "nloc": 130,
+                    "complexity": 11
+                },
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 128,
+                    "complexity": 7
+                },
+                {
+                    "commit_id": "543c5da34a9678b72dfeaaa28bcb66e8d57cd263",
+                    "nloc": 130,
+                    "complexity": 7
+                },
+                {
+                    "commit_id": "2fd55d198cb2dec4caf1170955a9934cbb3b64e1",
+                    "nloc": 131,
+                    "complexity": 7
+                },
+                {
+                    "commit_id": "cab67f6b6635b53bbf32680ee0da982e32bdcfee",
+                    "nloc": 128,
+                    "complexity": 11
+                },
+                {
+                    "commit_id": "44f5b8b274d984626a9b947bba35741e04c87ba2",
+                    "nloc": 131,
+                    "complexity": 7
+                },
+                {
+                    "commit_id": "f63a997c353a6d14311c5558a09c3d509bb909d2",
+                    "nloc": 132,
+                    "complexity": 7
+                },
+                {
+                    "commit_id": "f63a997c353a6d14311c5558a09c3d509bb909d2",
+                    "nloc": 151,
+                    "complexity": 14
+                },
+                {
+                    "commit_id": "7448340d20e0a4e46cfddd8e278f155591dd164a",
+                    "nloc": 135,
+                    "complexity": 13
+                },
+                {
+                    "commit_id": "c95d6ca08c2336c8587427de1bbb6d80c3564db3",
+                    "nloc": 132,
+                    "complexity": 7
+                }
+            ]
+        },
+        "addrs.go": {
+            "file_name": "addrs.go",
+            "commits": [
+                {
+                    "commit_id": "69ccf9991543f67d5c133836c4ad53af99affce6",
+                    "nloc": 102,
+                    "complexity": 19
+                },
+                {
+                    "commit_id": "0a8b2f117bee175468bfa036c278d79ea286c844",
+                    "nloc": 101,
+                    "complexity": 19
+                },
+                {
+                    "commit_id": "b2b8f3866b388fd4bdf930de820906741cc5803a",
+                    "nloc": 101,
+                    "complexity": 19
+                }
+            ]
+        },
+        "core_test.go": {
+            "file_name": "core_test.go",
+            "commits": [
+                {
+                    "commit_id": "2dc1f691f1bb98cadd7e7867cb924ce69f126751",
+                    "nloc": 56,
+                    "complexity": 7
+                }
+            ]
+        },
+        "builder.go": {
+            "file_name": "builder.go",
+            "commits": [
+                {
+                    "commit_id": "2dc1f691f1bb98cadd7e7867cb924ce69f126751",
+                    "nloc": 113,
+                    "complexity": 15
+                },
+                {
+                    "commit_id": "2138798ea54aaa1f8c74e43068edd55cd961dcd9",
+                    "nloc": 113,
+                    "complexity": 15
+                }
+            ]
+        },
+        "transport.go": {
+            "file_name": "transport.go",
+            "commits": [
+                {
+                    "commit_id": "2dc1f691f1bb98cadd7e7867cb924ce69f126751",
+                    "nloc": 29,
+                    "complexity": 4
+                },
+                {
+                    "commit_id": "4714c0ceccd9808b89a4e62783997962a7af9f68",
+                    "nloc": 38,
+                    "complexity": 6
+                },
+                {
+                    "commit_id": "d48b80b30e72b528e1232e549b2fb3def45be078",
+                    "nloc": 58,
+                    "complexity": 6
+                },
+                {
+                    "commit_id": "e164af1f2ac6daaec78d56340e43333d9147e20d",
+                    "nloc": 40,
+                    "complexity": 7
+                },
+                {
+                    "commit_id": "be171d5e3c6878ce2d97c25747fb101e1cfbb2ab",
+                    "nloc": 44,
+                    "complexity": 8
+                },
+                {
+                    "commit_id": "c95d6ca08c2336c8587427de1bbb6d80c3564db3",
+                    "nloc": 40,
+                    "complexity": 7
+                }
+            ]
+        },
+        "host.go": {
+            "file_name": "host.go",
+            "commits": [
+                {
+                    "commit_id": "ff17485cbb845f1d1ebf9091ff4cb36a25865481",
+                    "nloc": 72,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "2fd55d198cb2dec4caf1170955a9934cbb3b64e1",
+                    "nloc": 72,
+                    "complexity": 2
+                }
+            ]
+        },
+        "routingopt.go": {
+            "file_name": "routingopt.go",
+            "commits": [
+                {
+                    "commit_id": "ff17485cbb845f1d1ebf9091ff4cb36a25865481",
+                    "nloc": 58,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "2ecde1a18c1e08deef895d8c8fc7da6021420153",
+                    "nloc": 59,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "2fd55d198cb2dec4caf1170955a9934cbb3b64e1",
+                    "nloc": 59,
+                    "complexity": 3
+                }
+            ]
+        },
+        "assets.go": {
+            "file_name": "assets.go",
+            "commits": [
+                {
+                    "commit_id": "2d5f8b4ebe015817b2ea285a4d589e5d796bf8a3",
+                    "nloc": 53,
+                    "complexity": 9
+                },
+                {
+                    "commit_id": "9d92823dad725cd0f885c06ff6efe64a3a17b81c",
+                    "nloc": 53,
+                    "complexity": 9
+                },
+                {
+                    "commit_id": "4aa210c66af1e2950b6b8b6710a6461d041876f7",
+                    "nloc": 53,
+                    "complexity": 9
+                },
+                {
+                    "commit_id": "fed5f05134b70a9e51a4c13498dd2708111a4bc1",
+                    "nloc": 53,
+                    "complexity": 9
+                },
+                {
+                    "commit_id": "82e6674099a33359279a96953ac614d6671493a2",
+                    "nloc": 53,
+                    "complexity": 9
+                }
+            ]
+        },
+        "bindata_version_hash.go": {
+            "file_name": "bindata_version_hash.go",
+            "commits": [
+                {
+                    "commit_id": "2d5f8b4ebe015817b2ea285a4d589e5d796bf8a3",
+                    "nloc": 4,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "dfd9860183d6dd7aaa00cd4b74243a39abd34a4b",
+                    "nloc": 4,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "9d92823dad725cd0f885c06ff6efe64a3a17b81c",
+                    "nloc": 4,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "4aa210c66af1e2950b6b8b6710a6461d041876f7",
+                    "nloc": 4,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "9e95a82a05d285368f6e963ea19e39258f8af9dc",
+                    "nloc": 4,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "8ffb7ec6df9ad2a16257ff44870ed4000c9401c1",
+                    "nloc": 4,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "c94bd768d2f755c8825674e72539d49a82503d12",
+                    "nloc": 4,
+                    "complexity": 0
+                }
+            ]
+        },
+        "peering.go": {
+            "file_name": "peering.go",
+            "commits": [
+                {
+                    "commit_id": "978091a626a0e1f00a797fc4e2de99f4bfee943b",
+                    "nloc": 27,
+                    "complexity": 4
+                },
+                {
+                    "commit_id": "978091a626a0e1f00a797fc4e2de99f4bfee943b",
+                    "nloc": 183,
+                    "complexity": 35
+                },
+                {
+                    "commit_id": "8e52c7fb2d04482b108489e7cafd95ec6ebb0375",
+                    "nloc": 183,
+                    "complexity": 35
+                },
+                {
+                    "commit_id": "0551c4dca843fe3a9665fdc49cd2dcecaeb85046",
+                    "nloc": 183,
+                    "complexity": 35
+                },
+                {
+                    "commit_id": "87a293f6801b176d9a947c3bf49c511e3dd98dce",
+                    "nloc": 193,
+                    "complexity": 37
+                },
+                {
+                    "commit_id": "17b3b02549ef96534b4d170674d4ccf174efb1d1",
+                    "nloc": 193,
+                    "complexity": 38
+                },
+                {
+                    "commit_id": "e10289a93d50e3cc80a5a3692b98391cc1aab62b",
+                    "nloc": 198,
+                    "complexity": 39
+                },
+                {
+                    "commit_id": "6288f0b5ad8eed3c82f2e8bd596f41e3540841a1",
+                    "nloc": 207,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "e3dfc930a26114b3311dd20a8e24b3082a597d92",
+                    "nloc": 209,
+                    "complexity": 41
+                }
+            ]
+        },
+        "peering_test.go": {
+            "file_name": "peering_test.go",
+            "commits": [
+                {
+                    "commit_id": "978091a626a0e1f00a797fc4e2de99f4bfee943b",
+                    "nloc": 4,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "fe2b289d3002ed11a1dbcc0521bc42d33f0d46ed",
+                    "nloc": 90,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "e10289a93d50e3cc80a5a3692b98391cc1aab62b",
+                    "nloc": 108,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "fcdf77c9b0fe33268ad6048d973143b98ddeb83a",
+                    "nloc": 108,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "5e0c8bbf28e830c8a81bc81eee3633c0a176c30d",
+                    "nloc": 115,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "b3a6de8c6d3fa1649794d7ec9aa2e96adda875bd",
+                    "nloc": 115,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "6288f0b5ad8eed3c82f2e8bd596f41e3540841a1",
+                    "nloc": 121,
+                    "complexity": 2
+                }
+            ]
+        },
+        "refs.go": {
+            "file_name": "refs.go",
+            "commits": [
+                {
+                    "commit_id": "62f61c588d75ceafa1974f0584ffbf35950be2ca",
+                    "nloc": 238,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "cee60700b9208cf963dd4977db8deb7b3cdb80fc",
+                    "nloc": 238,
+                    "complexity": 3
+                }
+            ]
+        },
+        "dag.go": {
+            "file_name": "dag.go",
+            "commits": [
+                {
+                    "commit_id": "62f61c588d75ceafa1974f0584ffbf35950be2ca",
+                    "nloc": 45,
+                    "complexity": 8
+                },
+                {
+                    "commit_id": "cee60700b9208cf963dd4977db8deb7b3cdb80fc",
+                    "nloc": 45,
+                    "complexity": 8
+                },
+                {
+                    "commit_id": "8ae5aa56d1a196b25d22a4237ccf035deb9130f7",
+                    "nloc": 604,
+                    "complexity": 15
+                },
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 604,
+                    "complexity": 15
+                },
+                {
+                    "commit_id": "9c5304a21de66fa8f1eae715e8218396b31d18d6",
+                    "nloc": 611,
+                    "complexity": 15
+                },
+                {
+                    "commit_id": "37a637e8c1d7ca867a8d23e035418efb9b736fc9",
+                    "nloc": 604,
+                    "complexity": 15
+                },
+                {
+                    "commit_id": "6e2b1667733c74ca25780d29829474a5cda15baa",
+                    "nloc": 246,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 246,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "f63a997c353a6d14311c5558a09c3d509bb909d2",
+                    "nloc": 249,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "b3c3b2b92d01407c6b24deb3b48822803dd4cfa3",
+                    "nloc": 271,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "2e8b0bfee780e357f7045c4c763b8878f11271db",
+                    "nloc": 271,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "9685afcf3270e45a562d4fefb9225f61f38fd8e6",
+                    "nloc": 271,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "cc5830739873ccbaa340ee4df34aa628061ed644",
+                    "nloc": 271,
+                    "complexity": 0
+                }
+            ]
+        },
+        "pubsub.go": {
+            "file_name": "pubsub.go",
+            "commits": [
+                {
+                    "commit_id": "ac8a88d054e38f396a781cd938d724b074d6312b",
+                    "nloc": 22,
+                    "complexity": 4
+                },
+                {
+                    "commit_id": "c58e3e4c7d400c238846b42376e52c555b44229b",
+                    "nloc": 222,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "c58e3e4c7d400c238846b42376e52c555b44229b",
+                    "nloc": 90,
+                    "complexity": 21
+                },
+                {
+                    "commit_id": "5cd013ed380cb29a4bff75874a3a4ee5d30fd747",
+                    "nloc": 93,
+                    "complexity": 22
+                },
+                {
+                    "commit_id": "7193f950d795bb87c075edf1d9e41e7c131d7d8b",
+                    "nloc": 222,
+                    "complexity": 0
+                }
+            ]
+        },
+        "coreapi.go": {
+            "file_name": "coreapi.go",
+            "commits": [
+                {
+                    "commit_id": "c58e3e4c7d400c238846b42376e52c555b44229b",
+                    "nloc": 165,
+                    "complexity": 15
+                },
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 165,
+                    "complexity": 15
+                },
+                {
+                    "commit_id": "543c5da34a9678b72dfeaaa28bcb66e8d57cd263",
+                    "nloc": 168,
+                    "complexity": 15
+                },
+                {
+                    "commit_id": "eb7456d38fb6455d31a239c2558bfc73af094e57",
+                    "nloc": 174,
+                    "complexity": 15
+                },
+                {
+                    "commit_id": "f63a997c353a6d14311c5558a09c3d509bb909d2",
+                    "nloc": 179,
+                    "complexity": 15
+                }
+            ]
+        },
+        "id.go": {
+            "file_name": "id.go",
+            "commits": [
+                {
+                    "commit_id": "3aa86f8ed9602b86ed65ae4b9ddca3a97e1471e7",
+                    "nloc": 177,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "dd1093f4382dbddc9efb04541756e98c903b6f07",
+                    "nloc": 178,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "dd47364e24f6177352d50ee70e46f36b2bab24e1",
+                    "nloc": 185,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "d6b94360e2c7b63593e71775bc05a8c77268f82a",
+                    "nloc": 188,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "34c0e5c0f60118dcb8fd3b7fd24d627483a07589",
+                    "nloc": 190,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "a68e1469babc8a7ab3b2b1ebcae155631f823041",
+                    "nloc": 197,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "16b3fd4d8752ad5422aed6348e2cc597b2e76584",
+                    "nloc": 197,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "19aa4c327747247dae55b03180550817fd6c4ed3",
+                    "nloc": 197,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 197,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "94bd2981b920cd2104ef79a96e55ad8471e27e9a",
+                    "nloc": 197,
+                    "complexity": 2
+                }
+            ]
+        },
+        "daemon.go": {
+            "file_name": "daemon.go",
+            "commits": [
+                {
+                    "commit_id": "e164af1f2ac6daaec78d56340e43333d9147e20d",
+                    "nloc": 606,
+                    "complexity": 109
+                },
+                {
+                    "commit_id": "4674f770b7dde05f688d0f7c7fe972f6828b35e9",
+                    "nloc": 613,
+                    "complexity": 110
+                },
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 615,
+                    "complexity": 110
+                },
+                {
+                    "commit_id": "b88bdfeb9db0677213f57466b8b617fa3284b107",
+                    "nloc": 615,
+                    "complexity": 110
+                },
+                {
+                    "commit_id": "91c1aaa1b5a87eefa6ba1da904288de447e62d08",
+                    "nloc": 621,
+                    "complexity": 112
+                },
+                {
+                    "commit_id": "3d9821260adabb6b8a573fc5cdd7a4619f663d50",
+                    "nloc": 622,
+                    "complexity": 112
+                },
+                {
+                    "commit_id": "8794928c31437f0bcf877326674b268f9528ae42",
+                    "nloc": 623,
+                    "complexity": 112
+                },
+                {
+                    "commit_id": "e37d08f2104cbf5d5c639a791404b31570a27a7d",
+                    "nloc": 623,
+                    "complexity": 112
+                },
+                {
+                    "commit_id": "e22413ab927bfb6252b5bf1a9b84c23c54ad8aaa",
+                    "nloc": 624,
+                    "complexity": 112
+                },
+                {
+                    "commit_id": "fcbe47bc4be7e08239ee0819cf279a7f596b6e29",
+                    "nloc": 625,
+                    "complexity": 112
+                },
+                {
+                    "commit_id": "077266d3bd1912be5f6335c94ea69ecae25aad04",
+                    "nloc": 624,
+                    "complexity": 112
+                },
+                {
+                    "commit_id": "2f105f79b9fc12c4321a2333652ba1a7fb17e936",
+                    "nloc": 626,
+                    "complexity": 113
+                },
+                {
+                    "commit_id": "c54cdaa1f87507ba1048c8d450dc43e6db6eb1d7",
+                    "nloc": 668,
+                    "complexity": 127
+                },
+                {
+                    "commit_id": "039e12a2da77af7f0dfbdbc4602c2b5ba75c9b32",
+                    "nloc": 685,
+                    "complexity": 132
+                },
+                {
+                    "commit_id": "041de2aed1a3a55d2897b02fea3bdc823b394cb1",
+                    "nloc": 668,
+                    "complexity": 127
+                },
+                {
+                    "commit_id": "904cc737162eed91ff5a172ac65c758387da9100",
+                    "nloc": 693,
+                    "complexity": 135
+                },
+                {
+                    "commit_id": "7c71c154987235a1ad4cabc450dc5aec3e9a7c12",
+                    "nloc": 668,
+                    "complexity": 127
+                },
+                {
+                    "commit_id": "4cae9ccf32b693e42cb9c653d8c9c057d195779d",
+                    "nloc": 685,
+                    "complexity": 132
+                },
+                {
+                    "commit_id": "7bba2a6434f008847d150eb3a3097addba298f3c",
+                    "nloc": 693,
+                    "complexity": 135
+                },
+                {
+                    "commit_id": "3b6f57788bf9d0be3e7b45d9c52813d17d71732b",
+                    "nloc": 698,
+                    "complexity": 119
+                },
+                {
+                    "commit_id": "94bd2981b920cd2104ef79a96e55ad8471e27e9a",
+                    "nloc": 704,
+                    "complexity": 120
+                }
+            ]
+        },
+        "libp2p.go": {
+            "file_name": "libp2p.go",
+            "commits": [
+                {
+                    "commit_id": "e164af1f2ac6daaec78d56340e43333d9147e20d",
+                    "nloc": 66,
+                    "complexity": 7
+                },
+                {
+                    "commit_id": "94bd2981b920cd2104ef79a96e55ad8471e27e9a",
+                    "nloc": 66,
+                    "complexity": 7
+                }
+            ]
+        },
+        "sec.go": {
+            "file_name": "sec.go",
+            "commits": [
+                {
+                    "commit_id": "e164af1f2ac6daaec78d56340e43333d9147e20d",
+                    "nloc": 34,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "3ce725dd965cf2a0736c9638aeed8a302b0b15d8",
+                    "nloc": 34,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "08913c70ad63fece9ee247f2c41762ac7f5963a8",
+                    "nloc": 34,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "ccc2d237306c8f22630809292f1960eb87f242d1",
+                    "nloc": 35,
+                    "complexity": 3
+                }
+            ]
+        },
+        "smux.go": {
+            "file_name": "smux.go",
+            "commits": [
+                {
+                    "commit_id": "e164af1f2ac6daaec78d56340e43333d9147e20d",
+                    "nloc": 69,
+                    "complexity": 11
+                }
+            ]
+        },
+        "name.go": {
+            "file_name": "name.go",
+            "commits": [
+                {
+                    "commit_id": "5f19f3bbe86cf709d503720ebacf86f4c9faf63c",
+                    "nloc": 150,
+                    "complexity": 37
+                },
+                {
+                    "commit_id": "e384b5964a5415a57b2a9e014feb26e8edb4e346",
+                    "nloc": 150,
+                    "complexity": 37
+                },
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 150,
+                    "complexity": 37
+                },
+                {
+                    "commit_id": "543c5da34a9678b72dfeaaa28bcb66e8d57cd263",
+                    "nloc": 150,
+                    "complexity": 37
+                },
+                {
+                    "commit_id": "eb7456d38fb6455d31a239c2558bfc73af094e57",
+                    "nloc": 155,
+                    "complexity": 38
+                }
+            ]
+        },
+        "hostname.go": {
+            "file_name": "hostname.go",
+            "commits": [
+                {
+                    "commit_id": "84341d0c5a66fdf88278ccfba8f1d9703b8fc8e1",
+                    "nloc": 234,
+                    "complexity": 58
+                },
+                {
+                    "commit_id": "87dfc46e037c06e7580dcb645f967c736a3830af",
+                    "nloc": 238,
+                    "complexity": 59
+                },
+                {
+                    "commit_id": "231fab811d83322e61fe8d9c65d7bcd9fd6d243c",
+                    "nloc": 289,
+                    "complexity": 70
+                },
+                {
+                    "commit_id": "13e6bcfb4f7d2db7d80af77f1b32b2394abca9da",
+                    "nloc": 323,
+                    "complexity": 79
+                },
+                {
+                    "commit_id": "2ff6f1a80d6a070465e8c157a750ecf17687642b",
+                    "nloc": 317,
+                    "complexity": 78
+                },
+                {
+                    "commit_id": "6b6569f3e5c1cb2e229b98c26c88ffa34f0abe81",
+                    "nloc": 317,
+                    "complexity": 78
+                },
+                {
+                    "commit_id": "044790a83857c4b396ce5c336045d6b10f5e4075",
+                    "nloc": 318,
+                    "complexity": 78
+                },
+                {
+                    "commit_id": "cd1feb3af4e42a835870aca96243b55760ab5f04",
+                    "nloc": 321,
+                    "complexity": 79
+                },
+                {
+                    "commit_id": "09178aa717689a0ef9fd2042ad355320a16ffb35",
+                    "nloc": 356,
+                    "complexity": 92
+                },
+                {
+                    "commit_id": "88dd257ace53b56759a760ab9df189e43a7fda17",
+                    "nloc": 356,
+                    "complexity": 92
+                },
+                {
+                    "commit_id": "f932510b88a08bb674e4191431b3d33a7b3ec690",
+                    "nloc": 358,
+                    "complexity": 93
+                },
+                {
+                    "commit_id": "d61ae2bcb48be6067acaaa9c0d1c51483f891b0b",
+                    "nloc": 357,
+                    "complexity": 93
+                },
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 358,
+                    "complexity": 93
+                },
+                {
+                    "commit_id": "9f8964e6f9fe881014d0dd20b9f1a069971c1874",
+                    "nloc": 350,
+                    "complexity": 93
+                },
+                {
+                    "commit_id": "24dd662d381cb60502a996e5be23e1bfd0c51a87",
+                    "nloc": 350,
+                    "complexity": 93
+                },
+                {
+                    "commit_id": "28d4d9b327b83cef407a8a79e7162ab54bcfa63d",
+                    "nloc": 360,
+                    "complexity": 95
+                }
+            ]
+        },
+        "add.go": {
+            "file_name": "add.go",
+            "commits": [
+                {
+                    "commit_id": "c532cb4d5ae7b49f644a7f438d9fedd007b83ee0",
+                    "nloc": 408,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 408,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "7193f950d795bb87c075edf1d9e41e7c131d7d8b",
+                    "nloc": 408,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 408,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "090953d2980d6a361cf14af8c0bd142cf0e2c3b5",
+                    "nloc": 408,
+                    "complexity": 0
+                }
+            ]
+        },
+        "graphsync-get.go": {
+            "file_name": "graphsync-get.go",
+            "commits": [
+                {
+                    "commit_id": "a61132efea442b9f9a2b5368e1869c10c7f2bd80",
+                    "nloc": 115,
+                    "complexity": 21
+                }
+            ]
+        },
+        "hostname_test.go": {
+            "file_name": "hostname_test.go",
+            "commits": [
+                {
+                    "commit_id": "231fab811d83322e61fe8d9c65d7bcd9fd6d243c",
+                    "nloc": 148,
+                    "complexity": 27
+                },
+                {
+                    "commit_id": "13e6bcfb4f7d2db7d80af77f1b32b2394abca9da",
+                    "nloc": 160,
+                    "complexity": 26
+                },
+                {
+                    "commit_id": "6b6569f3e5c1cb2e229b98c26c88ffa34f0abe81",
+                    "nloc": 160,
+                    "complexity": 26
+                },
+                {
+                    "commit_id": "09178aa717689a0ef9fd2042ad355320a16ffb35",
+                    "nloc": 235,
+                    "complexity": 39
+                },
+                {
+                    "commit_id": "88dd257ace53b56759a760ab9df189e43a7fda17",
+                    "nloc": 240,
+                    "complexity": 39
+                },
+                {
+                    "commit_id": "24dd662d381cb60502a996e5be23e1bfd0c51a87",
+                    "nloc": 240,
+                    "complexity": 39
+                },
+                {
+                    "commit_id": "28d4d9b327b83cef407a8a79e7162ab54bcfa63d",
+                    "nloc": 258,
+                    "complexity": 42
+                }
+            ]
+        },
+        "keystore.go": {
+            "file_name": "keystore.go",
+            "commits": [
+                {
+                    "commit_id": "b3e5ffc41ae4ef46402ff38be21c66912b59bc42",
+                    "nloc": 248,
+                    "complexity": 10
+                },
+                {
+                    "commit_id": "a0656402ed9cb527aedee902b4e65f4cd63dfb7a",
+                    "nloc": 457,
+                    "complexity": 14
+                },
+                {
+                    "commit_id": "c7657cb69036cd0c2c11b34b0f41fb44254fa61d",
+                    "nloc": 460,
+                    "complexity": 14
+                },
+                {
+                    "commit_id": "a70d04b68f3433208c89a406b6429919660f7c07",
+                    "nloc": 422,
+                    "complexity": 14
+                },
+                {
+                    "commit_id": "356ca3aefad5c68b0c315e5f9a6af215661e51f8",
+                    "nloc": 364,
+                    "complexity": 12
+                },
+                {
+                    "commit_id": "7f15be2ae570fea8f7a9b019b6863cd8adfb7798",
+                    "nloc": 383,
+                    "complexity": 10
+                },
+                {
+                    "commit_id": "fab3a3578d8f5f9b9de4a262a6015d0bf210429b",
+                    "nloc": 390,
+                    "complexity": 10
+                },
+                {
+                    "commit_id": "e384b5964a5415a57b2a9e014feb26e8edb4e346",
+                    "nloc": 390,
+                    "complexity": 10
+                },
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 391,
+                    "complexity": 10
+                },
+                {
+                    "commit_id": "0f658484d1d5db63827f376d0f7ffb66c9bfb578",
+                    "nloc": 480,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "eb664613336a8b95462b05770c16a990c4c111dd",
+                    "nloc": 478,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "3cbe111b2dfc6868ae83075045fdb6d98e28baea",
+                    "nloc": 478,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "80e859ef6f29cc2d2023b54c7ca65bae6113a031",
+                    "nloc": 489,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "23a26c05d3d66d80113eee76201cb8fd0e00c280",
+                    "nloc": 489,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "2b013a1ac52d33c1f0be77c70b5e892c39eaa466",
+                    "nloc": 506,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "b4ad66eda42c9da24926d955c39ac242ac9b74e1",
+                    "nloc": 473,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "4975d9b1793b75bd1903e0e8e7a617e79ada2bfa",
+                    "nloc": 473,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "56f5a123d90ed0166ad369cd2fed2e1abb8e68b0",
+                    "nloc": 473,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "0ed43e903e52bda84649cbbf04729477ea099af1",
+                    "nloc": 477,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "6cbda0f62fbd2481b0ae2e0d0ce518576992ad1e",
+                    "nloc": 477,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "093e4360bf9f5bb233764e396c21b0ed390abea4",
+                    "nloc": 477,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "7193f950d795bb87c075edf1d9e41e7c131d7d8b",
+                    "nloc": 477,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "6f6f04543b07fcae08fd8b516082672d730ba8cd",
+                    "nloc": 479,
+                    "complexity": 14
+                },
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 479,
+                    "complexity": 14
+                },
+                {
+                    "commit_id": "a158036deefaa1da2b17f4596ecc067df12a4b3d",
+                    "nloc": 479,
+                    "complexity": 14
+                },
+                {
+                    "commit_id": "6b63de8a5ad6b9063bd1b65a41f355543ead0511",
+                    "nloc": 487,
+                    "complexity": 14
+                },
+                {
+                    "commit_id": "1d77f9d33d65b7948dbac79abc4776661345d6e1",
+                    "nloc": 487,
+                    "complexity": 14
+                }
+            ]
+        },
+        "init.go": {
+            "file_name": "init.go",
+            "commits": [
+                {
+                    "commit_id": "4674f770b7dde05f688d0f7c7fe972f6828b35e9",
+                    "nloc": 217,
+                    "complexity": 30
+                },
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 220,
+                    "complexity": 30
+                },
+                {
+                    "commit_id": "ece0cda10d7d6e5577e79bab18ba31bf59e7f9ad",
+                    "nloc": 220,
+                    "complexity": 30
+                },
+                {
+                    "commit_id": "91c1aaa1b5a87eefa6ba1da904288de447e62d08",
+                    "nloc": 216,
+                    "complexity": 27
+                },
+                {
+                    "commit_id": "6f6f04543b07fcae08fd8b516082672d730ba8cd",
+                    "nloc": 203,
+                    "complexity": 27
+                },
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 203,
+                    "complexity": 27
+                },
+                {
+                    "commit_id": "5ff3dd8e755f07932443a47dc405a4a9d7e3a5b7",
+                    "nloc": 213,
+                    "complexity": 29
+                }
+            ]
+        },
+        "ipfs.go": {
+            "file_name": "ipfs.go",
+            "commits": [
+                {
+                    "commit_id": "2c255eab2420818b0d1050f0797ae3265758ce50",
+                    "nloc": 60,
+                    "complexity": 9
+                },
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 24,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "0f658484d1d5db63827f376d0f7ffb66c9bfb578",
+                    "nloc": 23,
+                    "complexity": 3
+                }
+            ]
+        },
+        "rotate.go": {
+            "file_name": "rotate.go",
+            "commits": [
+                {
+                    "commit_id": "2c255eab2420818b0d1050f0797ae3265758ce50",
+                    "nloc": 95,
+                    "complexity": 8
+                },
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 96,
+                    "complexity": 8
+                }
+            ]
+        },
+        "key.go": {
+            "file_name": "key.go",
+            "commits": [
+                {
+                    "commit_id": "a0656402ed9cb527aedee902b4e65f4cd63dfb7a",
+                    "nloc": 172,
+                    "complexity": 40
+                },
+                {
+                    "commit_id": "356ca3aefad5c68b0c315e5f9a6af215661e51f8",
+                    "nloc": 165,
+                    "complexity": 38
+                },
+                {
+                    "commit_id": "e384b5964a5415a57b2a9e014feb26e8edb4e346",
+                    "nloc": 165,
+                    "complexity": 38
+                }
+            ]
+        },
+        "active.go": {
+            "file_name": "active.go",
+            "commits": [
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 103,
+                    "complexity": 0
+                }
+            ]
+        },
+        "cid.go": {
+            "file_name": "cid.go",
+            "commits": [
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 365,
+                    "complexity": 0
+                }
+            ]
+        },
+        "commands.go": {
+            "file_name": "commands.go",
+            "commits": [
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 136,
+                    "complexity": 26
+                },
+                {
+                    "commit_id": "d1c20bdff75d96a72ee0fe004c01a606df933c23",
+                    "nloc": 142,
+                    "complexity": 30
+                },
+                {
+                    "commit_id": "0060d5f7c8a14931b75af8eda20bd327c08c675b",
+                    "nloc": 174,
+                    "complexity": 28
+                }
+            ]
+        },
+        "config.go": {
+            "file_name": "config.go",
+            "commits": [
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 427,
+                    "complexity": 28
+                },
+                {
+                    "commit_id": "a8c7980721909f9cd16c35d699bc481574512c38",
+                    "nloc": 471,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "8794928c31437f0bcf877326674b268f9528ae42",
+                    "nloc": 490,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 490,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "090953d2980d6a361cf14af8c0bd142cf0e2c3b5",
+                    "nloc": 489,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "b3f054f450df1f6ad6918c1e230e9429b9e69641",
+                    "nloc": 489,
+                    "complexity": 41
+                }
+            ]
+        },
+        "external.go": {
+            "file_name": "external.go",
+            "commits": [
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 58,
+                    "complexity": 9
+                }
+            ]
+        },
+        "extra.go": {
+            "file_name": "extra.go",
+            "commits": [
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 45,
+                    "complexity": 13
+                }
+            ]
+        },
+        "log.go": {
+            "file_name": "log.go",
+            "commits": [
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 104,
+                    "complexity": 1
+                }
+            ]
+        },
+        "repo.go": {
+            "file_name": "repo.go",
+            "commits": [
+                {
+                    "commit_id": "692e9f59ff985b7771df6cd63dbde16ff8078ee1",
+                    "nloc": 316,
+                    "complexity": 13
+                },
+                {
+                    "commit_id": "98ee5abe5f3073c6dd35110134fea6412276b6ff",
+                    "nloc": 319,
+                    "complexity": 13
+                },
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 30,
+                    "complexity": 0
+                }
+            ]
+        },
+        "ipns.go": {
+            "file_name": "ipns.go",
+            "commits": [
+                {
+                    "commit_id": "7565da9bc21f682dfcf0666e676c56c2cfd468e8",
+                    "nloc": 135,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 135,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 42,
+                    "complexity": 9
+                },
+                {
+                    "commit_id": "543c5da34a9678b72dfeaaa28bcb66e8d57cd263",
+                    "nloc": 43,
+                    "complexity": 9
+                },
+                {
+                    "commit_id": "eb7456d38fb6455d31a239c2558bfc73af094e57",
+                    "nloc": 50,
+                    "complexity": 10
+                }
+            ]
+        },
+        "load_nocgo.go": {
+            "file_name": "load_nocgo.go",
+            "commits": [
+                {
+                    "commit_id": "c07b6fb1d1c2b2f1e26b2c72cbed31d03a00bac0",
+                    "nloc": 11,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "6b83bcd60e9725b412beb11dde03918929e9429b",
+                    "nloc": 11,
+                    "complexity": 2
+                }
+            ]
+        },
+        "load_noplugin.go": {
+            "file_name": "load_noplugin.go",
+            "commits": [
+                {
+                    "commit_id": "c07b6fb1d1c2b2f1e26b2c72cbed31d03a00bac0",
+                    "nloc": 11,
+                    "complexity": 2
+                }
+            ]
+        },
+        "load_unix.go": {
+            "file_name": "load_unix.go",
+            "commits": [
+                {
+                    "commit_id": "c07b6fb1d1c2b2f1e26b2c72cbed31d03a00bac0",
+                    "nloc": 24,
+                    "complexity": 5
+                },
+                {
+                    "commit_id": "6b83bcd60e9725b412beb11dde03918929e9429b",
+                    "nloc": 24,
+                    "complexity": 5
+                }
+            ]
+        },
+        "loader.go": {
+            "file_name": "loader.go",
+            "commits": [
+                {
+                    "commit_id": "c07b6fb1d1c2b2f1e26b2c72cbed31d03a00bac0",
+                    "nloc": 292,
+                    "complexity": 40
+                },
+                {
+                    "commit_id": "8c337160ac4407faa1ceb5169a03eff07ac3ab1b",
+                    "nloc": 292,
+                    "complexity": 40
+                },
+                {
+                    "commit_id": "f63a997c353a6d14311c5558a09c3d509bb909d2",
+                    "nloc": 287,
+                    "complexity": 40
+                }
+            ]
+        },
+        "ipns_resolver_validation_test.go": {
+            "file_name": "ipns_resolver_validation_test.go",
+            "commits": [
+                {
+                    "commit_id": "8e730218525253b2f45d31c122083d98ec2ba0ac",
+                    "nloc": 162,
+                    "complexity": 33
+                },
+                {
+                    "commit_id": "28cdfdfd1ffdae54e60f4036a1f2e400abb72766",
+                    "nloc": 162,
+                    "complexity": 33
+                }
+            ]
+        },
+        "routing.go": {
+            "file_name": "routing.go",
+            "commits": [
+                {
+                    "commit_id": "8e730218525253b2f45d31c122083d98ec2ba0ac",
+                    "nloc": 113,
+                    "complexity": 22
+                },
+                {
+                    "commit_id": "2fd55d198cb2dec4caf1170955a9934cbb3b64e1",
+                    "nloc": 148,
+                    "complexity": 5
+                }
+            ]
+        },
+        "graphsync.go": {
+            "file_name": "graphsync.go",
+            "commits": [
+                {
+                    "commit_id": "90a573354af23e361da87a29f7bafc459967c070",
+                    "nloc": 19,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "3f7e23e640d166e08e87d285fd53e98a1542ad6d",
+                    "nloc": 18,
+                    "complexity": 1
+                }
+            ]
+        },
+        "resolve.go": {
+            "file_name": "resolve.go",
+            "commits": [
+                {
+                    "commit_id": "3cbe111b2dfc6868ae83075045fdb6d98e28baea",
+                    "nloc": 123,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "6e2b1667733c74ca25780d29829474a5cda15baa",
+                    "nloc": 20,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 123,
+                    "complexity": 0
+                }
+            ]
+        },
+        "namesys_test.go": {
+            "file_name": "namesys_test.go",
+            "commits": [
+                {
+                    "commit_id": "a1ae867badcd15527b4cc53ab8c40342247b2016",
+                    "nloc": 152,
+                    "complexity": 22
+                }
+            ]
+        },
+        "keybase.go": {
+            "file_name": "keybase.go",
+            "commits": [
+                {
+                    "commit_id": "2b013a1ac52d33c1f0be77c70b5e892c39eaa466",
+                    "nloc": 30,
+                    "complexity": 6
+                },
+                {
+                    "commit_id": "b4ad66eda42c9da24926d955c39ac242ac9b74e1",
+                    "nloc": 31,
+                    "complexity": 6
+                }
+            ]
+        },
+        "ipnsps.go": {
+            "file_name": "ipnsps.go",
+            "commits": [
+                {
+                    "commit_id": "b4ad66eda42c9da24926d955c39ac242ac9b74e1",
+                    "nloc": 150,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "4975d9b1793b75bd1903e0e8e7a617e79ada2bfa",
+                    "nloc": 150,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "6cbda0f62fbd2481b0ae2e0d0ce518576992ad1e",
+                    "nloc": 150,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "093e4360bf9f5bb233764e396c21b0ed390abea4",
+                    "nloc": 150,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 150,
+                    "complexity": 3
+                }
+            ]
+        },
+        "publish.go": {
+            "file_name": "publish.go",
+            "commits": [
+                {
+                    "commit_id": "b4ad66eda42c9da24926d955c39ac242ac9b74e1",
+                    "nloc": 136,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "4975d9b1793b75bd1903e0e8e7a617e79ada2bfa",
+                    "nloc": 136,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "6cbda0f62fbd2481b0ae2e0d0ce518576992ad1e",
+                    "nloc": 136,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "093e4360bf9f5bb233764e396c21b0ed390abea4",
+                    "nloc": 136,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "7193f950d795bb87c075edf1d9e41e7c131d7d8b",
+                    "nloc": 136,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "306dfb34a14b0c00958b467f0df3366f816beaad",
+                    "nloc": 136,
+                    "complexity": 0
+                }
+            ]
+        },
+        "keyencode.go": {
+            "file_name": "keyencode.go",
+            "commits": [
+                {
+                    "commit_id": "4975d9b1793b75bd1903e0e8e7a617e79ada2bfa",
+                    "nloc": 31,
+                    "complexity": 6
+                },
+                {
+                    "commit_id": "6cbda0f62fbd2481b0ae2e0d0ce518576992ad1e",
+                    "nloc": 33,
+                    "complexity": 6
+                },
+                {
+                    "commit_id": "904ad1626a09f7fdec788f8f9513ad866889721a",
+                    "nloc": 33,
+                    "complexity": 6
+                },
+                {
+                    "commit_id": "093e4360bf9f5bb233764e396c21b0ed390abea4",
+                    "nloc": 33,
+                    "complexity": 6
+                },
+                {
+                    "commit_id": "4936920fe86a2d80763e641b6fcc940502a44a08",
+                    "nloc": 33,
+                    "complexity": 6
+                },
+                {
+                    "commit_id": "2138798ea54aaa1f8c74e43068edd55cd961dcd9",
+                    "nloc": 33,
+                    "complexity": 6
+                }
+            ]
+        },
+        "gateway_indexPage.go": {
+            "file_name": "gateway_indexPage.go",
+            "commits": [
+                {
+                    "commit_id": "044790a83857c4b396ce5c336045d6b10f5e4075",
+                    "nloc": 82,
+                    "complexity": 7
+                },
+                {
+                    "commit_id": "cd1feb3af4e42a835870aca96243b55760ab5f04",
+                    "nloc": 93,
+                    "complexity": 11
+                },
+                {
+                    "commit_id": "c94bd768d2f755c8825674e72539d49a82503d12",
+                    "nloc": 100,
+                    "complexity": 12
+                },
+                {
+                    "commit_id": "3ed46d995fee555f924b9163e491e37845ad8818",
+                    "nloc": 100,
+                    "complexity": 12
+                },
+                {
+                    "commit_id": "0858dc62aa7303c0da67289eee590013730c631b",
+                    "nloc": 103,
+                    "complexity": 13
+                }
+            ]
+        },
+        "sysdiag.go": {
+            "file_name": "sysdiag.go",
+            "commits": [
+                {
+                    "commit_id": "b88bdfeb9db0677213f57466b8b617fa3284b107",
+                    "nloc": 113,
+                    "complexity": 11
+                },
+                {
+                    "commit_id": "d52d183020842bebac788842e4f72d238609517d",
+                    "nloc": 121,
+                    "complexity": 12
+                }
+            ]
+        },
+        "corehttp.go": {
+            "file_name": "corehttp.go",
+            "commits": [
+                {
+                    "commit_id": "b88bdfeb9db0677213f57466b8b617fa3284b107",
+                    "nloc": 88,
+                    "complexity": 13
+                }
+            ]
+        },
+        "local.go": {
+            "file_name": "local.go",
+            "commits": [
+                {
+                    "commit_id": "b88bdfeb9db0677213f57466b8b617fa3284b107",
+                    "nloc": 92,
+                    "complexity": 16
+                }
+            ]
+        },
+        "remote.go": {
+            "file_name": "remote.go",
+            "commits": [
+                {
+                    "commit_id": "b88bdfeb9db0677213f57466b8b617fa3284b107",
+                    "nloc": 74,
+                    "complexity": 13
+                }
+            ]
+        },
+        "stream.go": {
+            "file_name": "stream.go",
+            "commits": [
+                {
+                    "commit_id": "b88bdfeb9db0677213f57466b8b617fa3284b107",
+                    "nloc": 88,
+                    "complexity": 13
+                }
+            ]
+        },
+        "wan_lan_dht_test.go": {
+            "file_name": "wan_lan_dht_test.go",
+            "commits": [
+                {
+                    "commit_id": "2ecde1a18c1e08deef895d8c8fc7da6021420153",
+                    "nloc": 237,
+                    "complexity": 50
+                }
+            ]
+        },
+        "repub.go": {
+            "file_name": "repub.go",
+            "commits": [
+                {
+                    "commit_id": "732101a6dfeae06ae5e803822cf874500d27b4bf",
+                    "nloc": 128,
+                    "complexity": 25
+                },
+                {
+                    "commit_id": "56de5bbe11b23cba7b419be94328ae521948ec33",
+                    "nloc": 128,
+                    "complexity": 25
+                }
+            ]
+        },
+        "repub_test.go": {
+            "file_name": "repub_test.go",
+            "commits": [
+                {
+                    "commit_id": "732101a6dfeae06ae5e803822cf874500d27b4bf",
+                    "nloc": 179,
+                    "complexity": 34
+                },
+                {
+                    "commit_id": "56de5bbe11b23cba7b419be94328ae521948ec33",
+                    "nloc": 179,
+                    "complexity": 34
+                }
+            ]
+        },
+        "dht.go": {
+            "file_name": "dht.go",
+            "commits": [
+                {
+                    "commit_id": "ba1d2252125826939d33c3d254d67ff18c46918b",
+                    "nloc": 592,
+                    "complexity": 24
+                },
+                {
+                    "commit_id": "255d7f41cc7d3f9f214b8fac1f6852da43f5aec1",
+                    "nloc": 592,
+                    "complexity": 24
+                },
+                {
+                    "commit_id": "2fd55d198cb2dec4caf1170955a9934cbb3b64e1",
+                    "nloc": 602,
+                    "complexity": 23
+                }
+            ]
+        },
+        "ulimit_test.go": {
+            "file_name": "ulimit_test.go",
+            "commits": [
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 66,
+                    "complexity": 16
+                }
+            ]
+        },
+        "ipfswatch_test.go": {
+            "file_name": "ipfswatch_test.go",
+            "commits": [
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 10,
+                    "complexity": 1
+                }
+            ]
+        },
+        "seccat.go": {
+            "file_name": "seccat.go",
+            "commits": [
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 217,
+                    "complexity": 16
+                }
+            ]
+        },
+        "seccat_plan9.go": {
+            "file_name": "seccat_plan9.go",
+            "commits": [
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 6,
+                    "complexity": 0
+                }
+            ]
+        },
+        "seccat_posix.go": {
+            "file_name": "seccat_posix.go",
+            "commits": [
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 6,
+                    "complexity": 0
+                }
+            ]
+        },
+        "get.go": {
+            "file_name": "get.go",
+            "commits": [
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 265,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "6e2b1667733c74ca25780d29829474a5cda15baa",
+                    "nloc": 31,
+                    "complexity": 6
+                },
+                {
+                    "commit_id": "f6641d1766257eb5164162e8795bea93a1220664",
+                    "nloc": 265,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "c47fca7dac6880e871a97a36d20b6f42467e542d",
+                    "nloc": 265,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "f63a997c353a6d14311c5558a09c3d509bb909d2",
+                    "nloc": 56,
+                    "complexity": 11
+                },
+                {
+                    "commit_id": "cc5830739873ccbaa340ee4df34aa628061ed644",
+                    "nloc": 56,
+                    "complexity": 11
+                }
+            ]
+        },
+        "ipns_test.go": {
+            "file_name": "ipns_test.go",
+            "commits": [
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 401,
+                    "complexity": 87
+                }
+            ]
+        },
+        "link_unix.go": {
+            "file_name": "link_unix.go",
+            "commits": [
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 20,
+                    "complexity": 2
+                }
+            ]
+        },
+        "fuse.go": {
+            "file_name": "fuse.go",
+            "commits": [
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 114,
+                    "complexity": 21
+                },
+                {
+                    "commit_id": "60fdf22cc804f79b800b1c03ea5ee97e061b9a15",
+                    "nloc": 117,
+                    "complexity": 21
+                }
+            ]
+        },
+        "mount_notsupp.go": {
+            "file_name": "mount_notsupp.go",
+            "commits": [
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 8,
+                    "complexity": 1
+                }
+            ]
+        },
+        "mount_test.go": {
+            "file_name": "mount_test.go",
+            "commits": [
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 68,
+                    "complexity": 16
+                }
+            ]
+        },
+        "mount_unix.go": {
+            "file_name": "mount_unix.go",
+            "commits": [
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 82,
+                    "complexity": 11
+                },
+                {
+                    "commit_id": "7193f950d795bb87c075edf1d9e41e7c131d7d8b",
+                    "nloc": 105,
+                    "complexity": 0
+                }
+            ]
+        },
+        "ipfs_test.go": {
+            "file_name": "ipfs_test.go",
+            "commits": [
+                {
+                    "commit_id": "cac753bb1834b69709679463047e939040e07607",
+                    "nloc": 240,
+                    "complexity": 52
+                }
+            ]
+        },
+        "ls.go": {
+            "file_name": "ls.go",
+            "commits": [
+                {
+                    "commit_id": "d4cd378092755ab67d07f33137996a47bb31dcbb",
+                    "nloc": 193,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "c6fe39a4a5151a4961d8f8107d913c7a503c5eb0",
+                    "nloc": 215,
+                    "complexity": 4
+                },
+                {
+                    "commit_id": "475e0ea3993868294b276086a3313a581955bec0",
+                    "nloc": 236,
+                    "complexity": 13
+                },
+                {
+                    "commit_id": "1cfd8c756826c5593eee2d9ba8bab190bc49e26b",
+                    "nloc": 193,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "ec64dc5c396e7114590e15909384fabce0035482",
+                    "nloc": 189,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "8487fad43c1b6abfcfafabe10f9bb6af8cf42a57",
+                    "nloc": 191,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "f46891e0b574ce2358669de3e11e4122734396e8",
+                    "nloc": 215,
+                    "complexity": 4
+                },
+                {
+                    "commit_id": "7193f950d795bb87c075edf1d9e41e7c131d7d8b",
+                    "nloc": 215,
+                    "complexity": 4
+                },
+                {
+                    "commit_id": "7193f950d795bb87c075edf1d9e41e7c131d7d8b",
+                    "nloc": 191,
+                    "complexity": 0
+                }
+            ]
+        },
+        "files.go": {
+            "file_name": "files.go",
+            "commits": [
+                {
+                    "commit_id": "c6fe39a4a5151a4961d8f8107d913c7a503c5eb0",
+                    "nloc": 1017,
+                    "complexity": 46
+                },
+                {
+                    "commit_id": "0c4ad11cfb8364bbb10d423ceb6470b6f39870ec",
+                    "nloc": 1017,
+                    "complexity": 46
+                },
+                {
+                    "commit_id": "fa81f2a7b34d1476fc6108bedb59afa0a8b6d9b1",
+                    "nloc": 1017,
+                    "complexity": 46
+                },
+                {
+                    "commit_id": "e7ddd3894ba2a0888ce38acf499b4a59883327f5",
+                    "nloc": 1180,
+                    "complexity": 23
+                },
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 1180,
+                    "complexity": 23
+                },
+                {
+                    "commit_id": "155435cb35aa783574c4c9b420fdd0ead8e85022",
+                    "nloc": 1193,
+                    "complexity": 23
+                },
+                {
+                    "commit_id": "c2e6a22bba886aa494765f6b647aaa3d18f0f3d6",
+                    "nloc": 1196,
+                    "complexity": 23
+                }
+            ]
+        },
+        "object.go": {
+            "file_name": "object.go",
+            "commits": [
+                {
+                    "commit_id": "7a50636f9a478ac1a9c14f9d12a8e8c8f7c0e0eb",
+                    "nloc": 294,
+                    "complexity": 61
+                },
+                {
+                    "commit_id": "7193f950d795bb87c075edf1d9e41e7c131d7d8b",
+                    "nloc": 517,
+                    "complexity": 9
+                },
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 517,
+                    "complexity": 9
+                },
+                {
+                    "commit_id": "5fad09909f7152b96bc180aeb6dcec1dd91ddfdd",
+                    "nloc": 517,
+                    "complexity": 9
+                },
+                {
+                    "commit_id": "f91411362baf0812150042e596292baf3854d43a",
+                    "nloc": 517,
+                    "complexity": 9
+                },
+                {
+                    "commit_id": "8c1e4e99d115f8481136b8c12293a58acdcc7872",
+                    "nloc": 461,
+                    "complexity": 10
+                }
+            ]
+        },
+        "p2p_proxy.go": {
+            "file_name": "p2p_proxy.go",
+            "commits": [
+                {
+                    "commit_id": "a329e4fc6674909336c56fae2258c6f906af0dbf",
+                    "nloc": 58,
+                    "complexity": 12
+                },
+                {
+                    "commit_id": "76f3395ee6c455679d2659a3e1281a98fb3050ec",
+                    "nloc": 62,
+                    "complexity": 13
+                }
+            ]
+        },
+        "remove.go": {
+            "file_name": "remove.go",
+            "commits": [
+                {
+                    "commit_id": "474f1cda9a4e2055541edcba558962697f9ed850",
+                    "nloc": 88,
+                    "complexity": 20
+                }
+            ]
+        },
+        "metrics.go": {
+            "file_name": "metrics.go",
+            "commits": [
+                {
+                    "commit_id": "3d9821260adabb6b8a573fc5cdd7a4619f663d50",
+                    "nloc": 150,
+                    "complexity": 24
+                },
+                {
+                    "commit_id": "024bf80e6a574e791b397bcba5875dae76c32c3b",
+                    "nloc": 150,
+                    "complexity": 24
+                },
+                {
+                    "commit_id": "fb3316ad05c0497fa2d5ba752e0efdebf40ac054",
+                    "nloc": 150,
+                    "complexity": 24
+                },
+                {
+                    "commit_id": "4ba03fa8df0e0d398bb946421c2a179828595221",
+                    "nloc": 149,
+                    "complexity": 24
+                },
+                {
+                    "commit_id": "473d7d5851783c45e95a27bf77ac3292918c641a",
+                    "nloc": 145,
+                    "complexity": 23
+                },
+                {
+                    "commit_id": "02823935aaf5920148059eb5c58a80bd9a36e36c",
+                    "nloc": 142,
+                    "complexity": 23
+                }
+            ]
+        },
+        "remotepin.go": {
+            "file_name": "remotepin.go",
+            "commits": [
+                {
+                    "commit_id": "a8c7980721909f9cd16c35d699bc481574512c38",
+                    "nloc": 572,
+                    "complexity": 19
+                },
+                {
+                    "commit_id": "4d52bbdde8dce668901d771ee86662f7272cdb19",
+                    "nloc": 572,
+                    "complexity": 19
+                },
+                {
+                    "commit_id": "7193f950d795bb87c075edf1d9e41e7c131d7d8b",
+                    "nloc": 572,
+                    "complexity": 19
+                },
+                {
+                    "commit_id": "a95a86ed54d6498f6d47232da1cbd111eebbd659",
+                    "nloc": 565,
+                    "complexity": 17
+                },
+                {
+                    "commit_id": "3b82dd8e55e5e984c44a182d1aaa42d86e61d298",
+                    "nloc": 613,
+                    "complexity": 17
+                },
+                {
+                    "commit_id": "1cb90d710976cc7ae31e7e96b1757bd5bd30f3b5",
+                    "nloc": 613,
+                    "complexity": 17
+                },
+                {
+                    "commit_id": "0b6912e3b3354a095dd9cb70f3d98ef62cb9fc41",
+                    "nloc": 614,
+                    "complexity": 17
+                },
+                {
+                    "commit_id": "5f692a76de01918b202aab1bc5d6657bb177a0ea",
+                    "nloc": 627,
+                    "complexity": 17
+                },
+                {
+                    "commit_id": "6851ede8eb2878a967f8052c4b01b6d1fb946db2",
+                    "nloc": 635,
+                    "complexity": 17
+                },
+                {
+                    "commit_id": "7313a45bc7e58c8880bc0350acc5a5d909474030",
+                    "nloc": 635,
+                    "complexity": 17
+                },
+                {
+                    "commit_id": "fc4095cfb3f8c2c958a9bcd583698070ed1f38d5",
+                    "nloc": 634,
+                    "complexity": 17
+                },
+                {
+                    "commit_id": "61f3a2f3a2e62b47f058029f77e95f9a11b38b4c",
+                    "nloc": 634,
+                    "complexity": 17
+                },
+                {
+                    "commit_id": "3bca93787a7af6e0ad0f4b6866d698f1c614cf79",
+                    "nloc": 618,
+                    "complexity": 17
+                },
+                {
+                    "commit_id": "8794928c31437f0bcf877326674b268f9528ae42",
+                    "nloc": 639,
+                    "complexity": 17
+                },
+                {
+                    "commit_id": "5ad04176b1b5cb42eb76e2a63c4054276c28f5dd",
+                    "nloc": 643,
+                    "complexity": 17
+                }
+            ]
+        },
+        "env.go": {
+            "file_name": "env.go",
+            "commits": [
+                {
+                    "commit_id": "7193f950d795bb87c075edf1d9e41e7c131d7d8b",
+                    "nloc": 64,
+                    "complexity": 15
+                },
+                {
+                    "commit_id": "267d6fc4fe476afa819bb9cd40bf599e0bceb3e4",
+                    "nloc": 74,
+                    "complexity": 18
+                },
+                {
+                    "commit_id": "20132a83eff4e6acccb78f2ca53bf152e8b56a7e",
+                    "nloc": 74,
+                    "complexity": 18
+                }
+            ]
+        },
+        "dns.go": {
+            "file_name": "dns.go",
+            "commits": [
+                {
+                    "commit_id": "7193f950d795bb87c075edf1d9e41e7c131d7d8b",
+                    "nloc": 71,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "dd295e45608560d2ada7d7c8a30f1eef3f4019bb",
+                    "nloc": 122,
+                    "complexity": 29
+                },
+                {
+                    "commit_id": "17d533909b88a47af8dedb0aa29e4943f7d383e9",
+                    "nloc": 122,
+                    "complexity": 29
+                },
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 71,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "543c5da34a9678b72dfeaaa28bcb66e8d57cd263",
+                    "nloc": 75,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "543c5da34a9678b72dfeaaa28bcb66e8d57cd263",
+                    "nloc": 8,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "543c5da34a9678b72dfeaaa28bcb66e8d57cd263",
+                    "nloc": 9,
+                    "complexity": 1
+                },
+                {
+                    "commit_id": "b6a1ba9617a1667df806e15fe7b809074c423f39",
+                    "nloc": 24,
+                    "complexity": 5
+                },
+                {
+                    "commit_id": "0ef2f8c9eac4b4f2716f4d4e3d10bbfeefdced5e",
+                    "nloc": 41,
+                    "complexity": 9
+                },
+                {
+                    "commit_id": "531e9c137d571699dd19f2ed3aed195f03c8d57b",
+                    "nloc": 44,
+                    "complexity": 10
+                },
+                {
+                    "commit_id": "b8eb1bbd5ba80a84a69f2c15ce58f21baa8da3af",
+                    "nloc": 44,
+                    "complexity": 11
+                },
+                {
+                    "commit_id": "77d6a08598180b8a4d546f2338809a3c3ebde214",
+                    "nloc": 63,
+                    "complexity": 14
+                },
+                {
+                    "commit_id": "0b4037c7cd2766fbd39ab2e34dcf5d89c3401908",
+                    "nloc": 66,
+                    "complexity": 15
+                },
+                {
+                    "commit_id": "664c66c3f374706dc05c90590c960df4ad994535",
+                    "nloc": 63,
+                    "complexity": 14
+                }
+            ]
+        },
+        "env_test.go": {
+            "file_name": "env_test.go",
+            "commits": [
+                {
+                    "commit_id": "20132a83eff4e6acccb78f2ca53bf152e8b56a7e",
+                    "nloc": 44,
+                    "complexity": 12
+                }
+            ]
+        },
+        "remotepin_test.go": {
+            "file_name": "remotepin_test.go",
+            "commits": [
+                {
+                    "commit_id": "5f692a76de01918b202aab1bc5d6657bb177a0ea",
+                    "nloc": 53,
+                    "complexity": 5
+                },
+                {
+                    "commit_id": "6851ede8eb2878a967f8052c4b01b6d1fb946db2",
+                    "nloc": 63,
+                    "complexity": 5
+                }
+            ]
+        },
+        "pinmfs.go": {
+            "file_name": "pinmfs.go",
+            "commits": [
+                {
+                    "commit_id": "8794928c31437f0bcf877326674b268f9528ae42",
+                    "nloc": 219,
+                    "complexity": 54
+                },
+                {
+                    "commit_id": "075cc8f35674bb30388faa7a3e73099a649cecf6",
+                    "nloc": 225,
+                    "complexity": 56
+                },
+                {
+                    "commit_id": "7881e518d6ea49065cae6aaf5b8e100f22ff3731",
+                    "nloc": 225,
+                    "complexity": 56
+                }
+            ]
+        },
+        "pinmfs_test.go": {
+            "file_name": "pinmfs_test.go",
+            "commits": [
+                {
+                    "commit_id": "8794928c31437f0bcf877326674b268f9528ae42",
+                    "nloc": 162,
+                    "complexity": 23
+                },
+                {
+                    "commit_id": "075cc8f35674bb30388faa7a3e73099a649cecf6",
+                    "nloc": 162,
+                    "complexity": 23
+                },
+                {
+                    "commit_id": "7881e518d6ea49065cae6aaf5b8e100f22ff3731",
+                    "nloc": 162,
+                    "complexity": 23
+                }
+            ]
+        },
+        "context.go": {
+            "file_name": "context.go",
+            "commits": [
+                {
+                    "commit_id": "8794928c31437f0bcf877326674b268f9528ae42",
+                    "nloc": 105,
+                    "complexity": 18
+                },
+                {
+                    "commit_id": "d631204deeea7da9ee9f6212fd23ef7b67dcebe2",
+                    "nloc": 104,
+                    "complexity": 18
+                }
+            ]
+        },
+        "config_test.go": {
+            "file_name": "config_test.go",
+            "commits": [
+                {
+                    "commit_id": "8794928c31437f0bcf877326674b268f9528ae42",
+                    "nloc": 14,
+                    "complexity": 4
+                }
+            ]
+        },
+        "fetch.go": {
+            "file_name": "fetch.go",
+            "commits": [
+                {
+                    "commit_id": "e37d08f2104cbf5d5c639a791404b31570a27a7d",
+                    "nloc": 167,
+                    "complexity": 36
+                },
+                {
+                    "commit_id": "e205b664a2da1994c06fbc8e4bdf433e75115f7f",
+                    "nloc": 168,
+                    "complexity": 36
+                },
+                {
+                    "commit_id": "0942e3be66b03406751e6d38bdac46b47a02b93d",
+                    "nloc": 168,
+                    "complexity": 36
+                },
+                {
+                    "commit_id": "e22413ab927bfb6252b5bf1a9b84c23c54ad8aaa",
+                    "nloc": 169,
+                    "complexity": 36
+                },
+                {
+                    "commit_id": "fcbe47bc4be7e08239ee0819cf279a7f596b6e29",
+                    "nloc": 101,
+                    "complexity": 20
+                },
+                {
+                    "commit_id": "852dfab997f58d9c36765c2fae7e619390f44fdb",
+                    "nloc": 101,
+                    "complexity": 20
+                },
+                {
+                    "commit_id": "1530cd2ceab3925d0203972869b0cbf296ecea72",
+                    "nloc": 101,
+                    "complexity": 20
+                },
+                {
+                    "commit_id": "5ee8710c5806bb26982b82a1567a28c75d2aed05",
+                    "nloc": 101,
+                    "complexity": 20
+                },
+                {
+                    "commit_id": "c54cdaa1f87507ba1048c8d450dc43e6db6eb1d7",
+                    "nloc": 117,
+                    "complexity": 23
+                }
+            ]
+        },
+        "fetch_test.go": {
+            "file_name": "fetch_test.go",
+            "commits": [
+                {
+                    "commit_id": "e37d08f2104cbf5d5c639a791404b31570a27a7d",
+                    "nloc": 106,
+                    "complexity": 24
+                },
+                {
+                    "commit_id": "5a3e567321401851e66afb42e85c063feaa6dfb9",
+                    "nloc": 106,
+                    "complexity": 24
+                },
+                {
+                    "commit_id": "e205b664a2da1994c06fbc8e4bdf433e75115f7f",
+                    "nloc": 171,
+                    "complexity": 43
+                },
+                {
+                    "commit_id": "fcbe47bc4be7e08239ee0819cf279a7f596b6e29",
+                    "nloc": 192,
+                    "complexity": 46
+                },
+                {
+                    "commit_id": "852dfab997f58d9c36765c2fae7e619390f44fdb",
+                    "nloc": 197,
+                    "complexity": 48
+                },
+                {
+                    "commit_id": "077266d3bd1912be5f6335c94ea69ecae25aad04",
+                    "nloc": 199,
+                    "complexity": 47
+                },
+                {
+                    "commit_id": "1430a0104c79eeddbfaa9e14cf2bb07ed73be9c2",
+                    "nloc": 199,
+                    "complexity": 47
+                },
+                {
+                    "commit_id": "891c81e631a559d831ba3687bfb48dd4d7af033c",
+                    "nloc": 200,
+                    "complexity": 47
+                },
+                {
+                    "commit_id": "36de939e25fce2dd19118206b9f857de9bc76e98",
+                    "nloc": 203,
+                    "complexity": 48
+                },
+                {
+                    "commit_id": "5ee8710c5806bb26982b82a1567a28c75d2aed05",
+                    "nloc": 204,
+                    "complexity": 48
+                },
+                {
+                    "commit_id": "c54cdaa1f87507ba1048c8d450dc43e6db6eb1d7",
+                    "nloc": 204,
+                    "complexity": 48
+                },
+                {
+                    "commit_id": "3b6f57788bf9d0be3e7b45d9c52813d17d71732b",
+                    "nloc": 200,
+                    "complexity": 47
+                }
+            ]
+        },
+        "ipfsdir.go": {
+            "file_name": "ipfsdir.go",
+            "commits": [
+                {
+                    "commit_id": "e37d08f2104cbf5d5c639a791404b31570a27a7d",
+                    "nloc": 156,
+                    "complexity": 34
+                },
+                {
+                    "commit_id": "01df5bd2118d351a9d18428d9b1b44f3eb0c7950",
+                    "nloc": 120,
+                    "complexity": 26
+                },
+                {
+                    "commit_id": "048db7599a9a498797a8f685739a880bc9f83e76",
+                    "nloc": 117,
+                    "complexity": 25
+                },
+                {
+                    "commit_id": "515381da1286b967c2e1566a93f7c51b0699ebe2",
+                    "nloc": 113,
+                    "complexity": 24
+                },
+                {
+                    "commit_id": "fcbe47bc4be7e08239ee0819cf279a7f596b6e29",
+                    "nloc": 98,
+                    "complexity": 21
+                },
+                {
+                    "commit_id": "852dfab997f58d9c36765c2fae7e619390f44fdb",
+                    "nloc": 96,
+                    "complexity": 21
+                },
+                {
+                    "commit_id": "077266d3bd1912be5f6335c94ea69ecae25aad04",
+                    "nloc": 78,
+                    "complexity": 17
+                },
+                {
+                    "commit_id": "5ee8710c5806bb26982b82a1567a28c75d2aed05",
+                    "nloc": 78,
+                    "complexity": 17
+                }
+            ]
+        },
+        "ipfsdir_test.go": {
+            "file_name": "ipfsdir_test.go",
+            "commits": [
+                {
+                    "commit_id": "e37d08f2104cbf5d5c639a791404b31570a27a7d",
+                    "nloc": 132,
+                    "complexity": 31
+                },
+                {
+                    "commit_id": "01df5bd2118d351a9d18428d9b1b44f3eb0c7950",
+                    "nloc": 129,
+                    "complexity": 30
+                },
+                {
+                    "commit_id": "048db7599a9a498797a8f685739a880bc9f83e76",
+                    "nloc": 127,
+                    "complexity": 29
+                },
+                {
+                    "commit_id": "e205b664a2da1994c06fbc8e4bdf433e75115f7f",
+                    "nloc": 190,
+                    "complexity": 46
+                },
+                {
+                    "commit_id": "fcbe47bc4be7e08239ee0819cf279a7f596b6e29",
+                    "nloc": 184,
+                    "complexity": 44
+                },
+                {
+                    "commit_id": "077266d3bd1912be5f6335c94ea69ecae25aad04",
+                    "nloc": 138,
+                    "complexity": 33
+                },
+                {
+                    "commit_id": "5ee8710c5806bb26982b82a1567a28c75d2aed05",
+                    "nloc": 138,
+                    "complexity": 33
+                },
+                {
+                    "commit_id": "3b6f57788bf9d0be3e7b45d9c52813d17d71732b",
+                    "nloc": 133,
+                    "complexity": 32
+                }
+            ]
+        },
+        "mfsr.go": {
+            "file_name": "mfsr.go",
+            "commits": [
+                {
+                    "commit_id": "e37d08f2104cbf5d5c639a791404b31570a27a7d",
+                    "nloc": null,
+                    "complexity": null
+                }
+            ]
+        },
+        "mfsr_test.go": {
+            "file_name": "mfsr_test.go",
+            "commits": [
+                {
+                    "commit_id": "e37d08f2104cbf5d5c639a791404b31570a27a7d",
+                    "nloc": null,
+                    "complexity": null
+                }
+            ]
+        },
+        "migrations_test.go": {
+            "file_name": "migrations_test.go",
+            "commits": [
+                {
+                    "commit_id": "e37d08f2104cbf5d5c639a791404b31570a27a7d",
+                    "nloc": 78,
+                    "complexity": 17
+                },
+                {
+                    "commit_id": "5a3e567321401851e66afb42e85c063feaa6dfb9",
+                    "nloc": 92,
+                    "complexity": 21
+                },
+                {
+                    "commit_id": "01df5bd2118d351a9d18428d9b1b44f3eb0c7950",
+                    "nloc": 93,
+                    "complexity": 21
+                },
+                {
+                    "commit_id": "afcda7c05b6b37f392390202d13eda00650045cf",
+                    "nloc": 136,
+                    "complexity": 32
+                },
+                {
+                    "commit_id": "e205b664a2da1994c06fbc8e4bdf433e75115f7f",
+                    "nloc": 136,
+                    "complexity": 32
+                },
+                {
+                    "commit_id": "9d1fdccdca84a13b0c7760bb90c0088973f5a63b",
+                    "nloc": 137,
+                    "complexity": 32
+                },
+                {
+                    "commit_id": "fcbe47bc4be7e08239ee0819cf279a7f596b6e29",
+                    "nloc": 169,
+                    "complexity": 38
+                },
+                {
+                    "commit_id": "852dfab997f58d9c36765c2fae7e619390f44fdb",
+                    "nloc": 174,
+                    "complexity": 40
+                },
+                {
+                    "commit_id": "077266d3bd1912be5f6335c94ea69ecae25aad04",
+                    "nloc": 165,
+                    "complexity": 38
+                },
+                {
+                    "commit_id": "1530cd2ceab3925d0203972869b0cbf296ecea72",
+                    "nloc": 165,
+                    "complexity": 38
+                },
+                {
+                    "commit_id": "5ee8710c5806bb26982b82a1567a28c75d2aed05",
+                    "nloc": 165,
+                    "complexity": 38
+                },
+                {
+                    "commit_id": "7c8df87cd0710db66b36d875dd2545c180af1e8a",
+                    "nloc": 180,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "c54cdaa1f87507ba1048c8d450dc43e6db6eb1d7",
+                    "nloc": 179,
+                    "complexity": 41
+                },
+                {
+                    "commit_id": "3b6f57788bf9d0be3e7b45d9c52813d17d71732b",
+                    "nloc": 337,
+                    "complexity": 60
+                }
+            ]
+        },
+        "unpack.go": {
+            "file_name": "unpack.go",
+            "commits": [
+                {
+                    "commit_id": "e37d08f2104cbf5d5c639a791404b31570a27a7d",
+                    "nloc": 86,
+                    "complexity": 19
+                },
+                {
+                    "commit_id": "e205b664a2da1994c06fbc8e4bdf433e75115f7f",
+                    "nloc": 90,
+                    "complexity": 20
+                },
+                {
+                    "commit_id": "fcbe47bc4be7e08239ee0819cf279a7f596b6e29",
+                    "nloc": 90,
+                    "complexity": 20
+                },
+                {
+                    "commit_id": "c54cdaa1f87507ba1048c8d450dc43e6db6eb1d7",
+                    "nloc": 89,
+                    "complexity": 20
+                }
+            ]
+        },
+        "versions.go": {
+            "file_name": "versions.go",
+            "commits": [
+                {
+                    "commit_id": "e37d08f2104cbf5d5c639a791404b31570a27a7d",
+                    "nloc": 70,
+                    "complexity": 14
+                },
+                {
+                    "commit_id": "515381da1286b967c2e1566a93f7c51b0699ebe2",
+                    "nloc": 69,
+                    "complexity": 14
+                },
+                {
+                    "commit_id": "fcbe47bc4be7e08239ee0819cf279a7f596b6e29",
+                    "nloc": 73,
+                    "complexity": 16
+                },
+                {
+                    "commit_id": "077266d3bd1912be5f6335c94ea69ecae25aad04",
+                    "nloc": 59,
+                    "complexity": 13
+                },
+                {
+                    "commit_id": "2fc1594f51a606d2f1e1b4b735fa5c8098153c4f",
+                    "nloc": 59,
+                    "complexity": 13
+                }
+            ]
+        },
+        "versions_test.go": {
+            "file_name": "versions_test.go",
+            "commits": [
+                {
+                    "commit_id": "e37d08f2104cbf5d5c639a791404b31570a27a7d",
+                    "nloc": 53,
+                    "complexity": 11
+                },
+                {
+                    "commit_id": "fcbe47bc4be7e08239ee0819cf279a7f596b6e29",
+                    "nloc": 58,
+                    "complexity": 11
+                },
+                {
+                    "commit_id": "852dfab997f58d9c36765c2fae7e619390f44fdb",
+                    "nloc": 61,
+                    "complexity": 12
+                },
+                {
+                    "commit_id": "077266d3bd1912be5f6335c94ea69ecae25aad04",
+                    "nloc": 42,
+                    "complexity": 7
+                },
+                {
+                    "commit_id": "2fc1594f51a606d2f1e1b4b735fa5c8098153c4f",
+                    "nloc": 42,
+                    "complexity": 7
+                }
+            ]
+        },
+        "unpack_test.go": {
+            "file_name": "unpack_test.go",
+            "commits": [
+                {
+                    "commit_id": "e205b664a2da1994c06fbc8e4bdf433e75115f7f",
+                    "nloc": 168,
+                    "complexity": 45
+                },
+                {
+                    "commit_id": "fcbe47bc4be7e08239ee0819cf279a7f596b6e29",
+                    "nloc": 184,
+                    "complexity": 49
+                },
+                {
+                    "commit_id": "5ee8710c5806bb26982b82a1567a28c75d2aed05",
+                    "nloc": 185,
+                    "complexity": 49
+                },
+                {
+                    "commit_id": "3b6f57788bf9d0be3e7b45d9c52813d17d71732b",
+                    "nloc": 177,
+                    "complexity": 47
+                }
+            ]
+        },
+        "dns_test.go": {
+            "file_name": "dns_test.go",
+            "commits": [
+                {
+                    "commit_id": "17d533909b88a47af8dedb0aa29e4943f7d383e9",
+                    "nloc": 161,
+                    "complexity": 9
+                }
+            ]
+        },
+        "util.go": {
+            "file_name": "util.go",
+            "commits": [
+                {
+                    "commit_id": "ccc2d237306c8f22630809292f1960eb87f242d1",
+                    "nloc": null,
+                    "complexity": null
+                }
+            ]
+        },
+        "mount_darwin.go": {
+            "file_name": "mount_darwin.go",
+            "commits": [
+                {
+                    "commit_id": "01403e90e9678c5c1d6799471cd56a895ef8d765",
+                    "nloc": 174,
+                    "complexity": 25
+                }
+            ]
+        },
+        "fetcher.go": {
+            "file_name": "fetcher.go",
+            "commits": [
+                {
+                    "commit_id": "fcbe47bc4be7e08239ee0819cf279a7f596b6e29",
+                    "nloc": 62,
+                    "complexity": 11
+                },
+                {
+                    "commit_id": "077266d3bd1912be5f6335c94ea69ecae25aad04",
+                    "nloc": 52,
+                    "complexity": 8
+                },
+                {
+                    "commit_id": "1430a0104c79eeddbfaa9e14cf2bb07ed73be9c2",
+                    "nloc": 52,
+                    "complexity": 8
+                },
+                {
+                    "commit_id": "1530cd2ceab3925d0203972869b0cbf296ecea72",
+                    "nloc": 52,
+                    "complexity": 8
+                },
+                {
+                    "commit_id": "09a481ea7a34d92bd2a4a7b4b94333b89d37ac85",
+                    "nloc": 52,
+                    "complexity": 8
+                },
+                {
+                    "commit_id": "f00b49be5855121fd257bc6bb9572530a3e8eb2e",
+                    "nloc": 52,
+                    "complexity": 8
+                },
+                {
+                    "commit_id": "b75d8239504280769228f1a54162e09abc32f7f8",
+                    "nloc": 52,
+                    "complexity": 8
+                },
+                {
+                    "commit_id": "c54cdaa1f87507ba1048c8d450dc43e6db6eb1d7",
+                    "nloc": 71,
+                    "complexity": 13
+                },
+                {
+                    "commit_id": "6e610066f6a9f1212410fbab88b625444e031fe5",
+                    "nloc": 71,
+                    "complexity": 13
+                }
+            ]
+        },
+        "httpfetcher.go": {
+            "file_name": "httpfetcher.go",
+            "commits": [
+                {
+                    "commit_id": "fcbe47bc4be7e08239ee0819cf279a7f596b6e29",
+                    "nloc": 69,
+                    "complexity": 12
+                },
+                {
+                    "commit_id": "077266d3bd1912be5f6335c94ea69ecae25aad04",
+                    "nloc": 70,
+                    "complexity": 13
+                },
+                {
+                    "commit_id": "1430a0104c79eeddbfaa9e14cf2bb07ed73be9c2",
+                    "nloc": 70,
+                    "complexity": 13
+                },
+                {
+                    "commit_id": "c54cdaa1f87507ba1048c8d450dc43e6db6eb1d7",
+                    "nloc": 74,
+                    "complexity": 14
+                }
+            ]
+        },
+        "reqlog.go": {
+            "file_name": "reqlog.go",
+            "commits": [
+                {
+                    "commit_id": "d631204deeea7da9ee9f6212fd23ef7b67dcebe2",
+                    "nloc": 82,
+                    "complexity": 15
+                }
+            ]
+        },
+        "export.go": {
+            "file_name": "export.go",
+            "commits": [
+                {
+                    "commit_id": "6e2b1667733c74ca25780d29829474a5cda15baa",
+                    "nloc": 108,
+                    "complexity": 24
+                }
+            ]
+        },
+        "import.go": {
+            "file_name": "import.go",
+            "commits": [
+                {
+                    "commit_id": "6e2b1667733c74ca25780d29829474a5cda15baa",
+                    "nloc": 121,
+                    "complexity": 25
+                },
+                {
+                    "commit_id": "b3c3b2b92d01407c6b24deb3b48822803dd4cfa3",
+                    "nloc": 139,
+                    "complexity": 27
+                }
+            ]
+        },
+        "put.go": {
+            "file_name": "put.go",
+            "commits": [
+                {
+                    "commit_id": "6e2b1667733c74ca25780d29829474a5cda15baa",
+                    "nloc": 65,
+                    "complexity": 14
+                },
+                {
+                    "commit_id": "f63a997c353a6d14311c5558a09c3d509bb909d2",
+                    "nloc": 104,
+                    "complexity": 18
+                },
+                {
+                    "commit_id": "2e8b0bfee780e357f7045c4c763b8878f11271db",
+                    "nloc": 104,
+                    "complexity": 18
+                }
+            ]
+        },
+        "dht_test.go": {
+            "file_name": "dht_test.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 26,
+                    "complexity": 5
+                }
+            ]
+        },
+        "path.go": {
+            "file_name": "path.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 62,
+                    "complexity": 12
+                },
+                {
+                    "commit_id": "f63a997c353a6d14311c5558a09c3d509bb909d2",
+                    "nloc": 59,
+                    "complexity": 13
+                }
+            ]
+        },
+        "api_test.go": {
+            "file_name": "api_test.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 103,
+                    "complexity": 12
+                },
+                {
+                    "commit_id": "2138798ea54aaa1f8c74e43068edd55cd961dcd9",
+                    "nloc": 103,
+                    "complexity": 12
+                }
+            ]
+        },
+        "common.go": {
+            "file_name": "common.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 24,
+                    "complexity": 3
+                }
+            ]
+        },
+        "keystore_test.go": {
+            "file_name": "keystore_test.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": null,
+                    "complexity": null
+                }
+            ]
+        },
+        "memkeystore.go": {
+            "file_name": "memkeystore.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": null,
+                    "complexity": null
+                }
+            ]
+        },
+        "memkeystore_test.go": {
+            "file_name": "memkeystore_test.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": null,
+                    "complexity": null
+                }
+            ]
+        },
+        "base.go": {
+            "file_name": "base.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": null,
+                    "complexity": null
+                }
+            ]
+        },
+        "cache.go": {
+            "file_name": "cache.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": null,
+                    "complexity": null
+                }
+            ]
+        },
+        "interface.go": {
+            "file_name": "interface.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": null,
+                    "complexity": null
+                }
+            ]
+        },
+        "proquint.go": {
+            "file_name": "proquint.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": null,
+                    "complexity": null
+                }
+            ]
+        },
+        "publisher_test.go": {
+            "file_name": "publisher_test.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": null,
+                    "complexity": null
+                }
+            ]
+        },
+        "resolve_test.go": {
+            "file_name": "resolve_test.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": null,
+                    "complexity": null
+                }
+            ]
+        },
+        "mock.go": {
+            "file_name": "mock.go",
+            "commits": [
+                {
+                    "commit_id": "3db9551f7948809e6f9104651412557fbde08af0",
+                    "nloc": 40,
+                    "complexity": 12
+                }
+            ]
+        },
+        "diff.go": {
+            "file_name": "diff.go",
+            "commits": [
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 102,
+                    "complexity": 0
+                }
+            ]
+        },
+        "patch.go": {
+            "file_name": "patch.go",
+            "commits": [
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 186,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "8c1e4e99d115f8481136b8c12293a58acdcc7872",
+                    "nloc": 203,
+                    "complexity": 0
+                }
+            ]
+        },
+        "p2p.go": {
+            "file_name": "p2p.go",
+            "commits": [
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 454,
+                    "complexity": 22
+                }
+            ]
+        },
+        "shutdown.go": {
+            "file_name": "shutdown.go",
+            "commits": [
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 23,
+                    "complexity": 0
+                }
+            ]
+        },
+        "tar.go": {
+            "file_name": "tar.go",
+            "commits": [
+                {
+                    "commit_id": "0ff1cf33aa03014265335b0c72b104bb90b8279a",
+                    "nloc": 92,
+                    "complexity": 0
+                }
+            ]
+        },
+        "dnsresolve_test.go": {
+            "file_name": "dnsresolve_test.go",
+            "commits": [
+                {
+                    "commit_id": "d91ff2102b6756471fa92145ef2d99d621dac039",
+                    "nloc": 59,
+                    "complexity": 13
+                },
+                {
+                    "commit_id": "aca3a201963bca90ab2802120738f779aabf26c4",
+                    "nloc": 59,
+                    "complexity": 13
+                }
+            ]
+        },
+        "migration.go": {
+            "file_name": "migration.go",
+            "commits": [
+                {
+                    "commit_id": "c54cdaa1f87507ba1048c8d450dc43e6db6eb1d7",
+                    "nloc": 242,
+                    "complexity": 49
+                }
+            ]
+        },
+        "migration_test.go": {
+            "file_name": "migration_test.go",
+            "commits": [
+                {
+                    "commit_id": "c54cdaa1f87507ba1048c8d450dc43e6db6eb1d7",
+                    "nloc": 273,
+                    "complexity": 57
+                }
+            ]
+        },
+        "ipfsfetcher.go": {
+            "file_name": "ipfsfetcher.go",
+            "commits": [
+                {
+                    "commit_id": "c54cdaa1f87507ba1048c8d450dc43e6db6eb1d7",
+                    "nloc": 205,
+                    "complexity": 37
+                },
+                {
+                    "commit_id": "3b6f57788bf9d0be3e7b45d9c52813d17d71732b",
+                    "nloc": 243,
+                    "complexity": 44
+                }
+            ]
+        },
+        "ipfsfetcher_test.go": {
+            "file_name": "ipfsfetcher_test.go",
+            "commits": [
+                {
+                    "commit_id": "c54cdaa1f87507ba1048c8d450dc43e6db6eb1d7",
+                    "nloc": 110,
+                    "complexity": 26
+                },
+                {
+                    "commit_id": "3b6f57788bf9d0be3e7b45d9c52813d17d71732b",
+                    "nloc": 233,
+                    "complexity": 48
+                }
+            ]
+        },
+        "stat_provide.go": {
+            "file_name": "stat_provide.go",
+            "commits": [
+                {
+                    "commit_id": "cf45f1a8621b965eb89bebaca5574bb8cb53ca43",
+                    "nloc": 41,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "37de3d0586928a3d3373a07c864d4d894d4de276",
+                    "nloc": 53,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "c082c73135d4bf9ba44fcc901d84434ed78a652c",
+                    "nloc": 63,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "e5ac70456dadd6723833d67c5cb6dd53b0d880cf",
+                    "nloc": 67,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "f40dc731e9d7e3d452d03c632d99ef9577d1fb2d",
+                    "nloc": 74,
+                    "complexity": 5
+                },
+                {
+                    "commit_id": "0902ab1be5e6fd583345c9d4b54367adf517e11b",
+                    "nloc": 53,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "bd46b0bbe6759c4b9d1436e026175a0bcd5cef04",
+                    "nloc": 63,
+                    "complexity": 2
+                },
+                {
+                    "commit_id": "229dfa675557bd539d9c6aa8b3082cc359bf149c",
+                    "nloc": 67,
+                    "complexity": 3
+                },
+                {
+                    "commit_id": "4fe6f4ce4483f806d4169b890751724c081a11bc",
+                    "nloc": 74,
+                    "complexity": 5
+                }
+            ]
+        },
+        "provider.go": {
+            "file_name": "provider.go",
+            "commits": [
+                {
+                    "commit_id": "cf45f1a8621b965eb89bebaca5574bb8cb53ca43",
+                    "nloc": 139,
+                    "complexity": 19
+                },
+                {
+                    "commit_id": "f63a997c353a6d14311c5558a09c3d509bb909d2",
+                    "nloc": 144,
+                    "complexity": 19
+                }
+            ]
+        },
+        "completion.go": {
+            "file_name": "completion.go",
+            "commits": [
+                {
+                    "commit_id": "0060d5f7c8a14931b75af8eda20bd327c08c675b",
+                    "nloc": 127,
+                    "complexity": 1
+                }
+            ]
+        },
+        "diag.go": {
+            "file_name": "diag.go",
+            "commits": [
+                {
+                    "commit_id": "d52d183020842bebac788842e4f72d238609517d",
+                    "nloc": 14,
+                    "complexity": 0
+                }
+            ]
+        },
+        "profile.go": {
+            "file_name": "profile.go",
+            "commits": [
+                {
+                    "commit_id": "d52d183020842bebac788842e4f72d238609517d",
+                    "nloc": 175,
+                    "complexity": 23
+                },
+                {
+                    "commit_id": "722fc4fa4c2fb501615825353d2c1dc10bbb832e",
+                    "nloc": 165,
+                    "complexity": 22
+                },
+                {
+                    "commit_id": "77f3fed5a1f0aebe4fcf5658abe7e582d5597b96",
+                    "nloc": 197,
+                    "complexity": 22
+                },
+                {
+                    "commit_id": "e1cf99cfab92d759e27fbd3d088a9487be9158f6",
+                    "nloc": 197,
+                    "complexity": 22
+                },
+                {
+                    "commit_id": "3745047ccf59bf81a7297c2d7400edb586063f47",
+                    "nloc": 217,
+                    "complexity": 8
+                }
+            ]
+        },
+        "add_migrations.go": {
+            "file_name": "add_migrations.go",
+            "commits": [
+                {
+                    "commit_id": "3b6f57788bf9d0be3e7b45d9c52813d17d71732b",
+                    "nloc": 135,
+                    "complexity": 25
+                }
+            ]
+        },
+        "readonly_unix.go": {
+            "file_name": "readonly_unix.go",
+            "commits": [
+                {
+                    "commit_id": "f63a997c353a6d14311c5558a09c3d509bb909d2",
+                    "nloc": 245,
+                    "complexity": 39
+                },
+                {
+                    "commit_id": "680c80a9ff4511aca282b9562f2ab869ae122348",
+                    "nloc": 252,
+                    "complexity": 40
+                }
+            ]
+        },
+        "ipld.go": {
+            "file_name": "ipld.go",
+            "commits": [
+                {
+                    "commit_id": "f63a997c353a6d14311c5558a09c3d509bb909d2",
+                    "nloc": 8,
+                    "complexity": 0
+                }
+            ]
+        },
+        "git.go": {
+            "file_name": "git.go",
+            "commits": [
+                {
+                    "commit_id": "f63a997c353a6d14311c5558a09c3d509bb909d2",
+                    "nloc": 38,
+                    "complexity": 6
+                }
+            ]
+        },
+        "bitswap.go": {
+            "file_name": "bitswap.go",
+            "commits": [
+                {
+                    "commit_id": "7448340d20e0a4e46cfddd8e278f155591dd164a",
+                    "nloc": 42,
+                    "complexity": 1
+                }
+            ]
+        },
+        "multibase.go": {
+            "file_name": "multibase.go",
+            "commits": [
+                {
+                    "commit_id": "7db27bf83a10cd9804a4be8e7421b5ed52bda461",
+                    "nloc": 106,
+                    "complexity": 0
+                },
+                {
+                    "commit_id": "ef5dd4a186a8d54193ab1fbb8ed4274ac623082b",
+                    "nloc": 155,
+                    "complexity": 0
+                }
+            ]
+        },
+        "filters.go": {
+            "file_name": "filters.go",
+            "commits": [
+                {
+                    "commit_id": "b2b8f3866b388fd4bdf930de820906741cc5803a",
+                    "nloc": 25,
+                    "complexity": 5
+                }
+            ]
+        },
+        "metrics_test.go": {
+            "file_name": "metrics_test.go",
+            "commits": [
+                {
+                    "commit_id": "c95d6ca08c2336c8587427de1bbb6d80c3564db3",
+                    "nloc": 40,
+                    "complexity": 7
+                }
+            ]
+        },
+        "discovery.go": {
+            "file_name": "discovery.go",
+            "commits": [
+                {
+                    "commit_id": "c95d6ca08c2336c8587427de1bbb6d80c3564db3",
+                    "nloc": 41,
+                    "complexity": 6
+                },
+                {
+                    "commit_id": "dba304790c5507a9591e6d1c4809a723c7ed25b0",
+                    "nloc": 48,
+                    "complexity": 7
+                }
+            ]
+        },
+        "preload.go": {
+            "file_name": "preload.go",
+            "commits": [
+                {
+                    "commit_id": "63dd43b8cd0028ea11b531fd4cfca172d1f7a078",
+                    "nloc": 15,
+                    "complexity": 1
+                }
+            ]
+        },
+        "peerlog.go": {
+            "file_name": "peerlog.go",
+            "commits": [
+                {
+                    "commit_id": "63dd43b8cd0028ea11b531fd4cfca172d1f7a078",
+                    "nloc": 155,
+                    "complexity": 33
+                },
+                {
+                    "commit_id": "8f623139c24d36f90e4665a0d08724d95e8a2f15",
+                    "nloc": 159,
+                    "complexity": 34
+                },
+                {
+                    "commit_id": "810a1749e0bf0d51c77abbc96827a2f95a8ce5b4",
+                    "nloc": 159,
+                    "complexity": 34
+                }
+            ]
+        },
+        "peerlog_test.go": {
+            "file_name": "peerlog_test.go",
+            "commits": [
+                {
+                    "commit_id": "8f623139c24d36f90e4665a0d08724d95e8a2f15",
+                    "nloc": 47,
+                    "complexity": 4
+                }
+            ]
+        },
+        "main_test.go": {
+            "file_name": "main_test.go",
+            "commits": [
+                {
+                    "commit_id": "f00f7d2464b120609420bf0ef35ad50bfad6d895",
+                    "nloc": 15,
+                    "complexity": 3
+                }
+            ]
+        },
+        "gateway.go": {
+            "file_name": "gateway.go",
+            "commits": [
+                {
+                    "commit_id": "94bd2981b920cd2104ef79a96e55ad8471e27e9a",
+                    "nloc": 87,
+                    "complexity": 14
+                }
+            ]
+        },
+        "path_test.go": {
+            "file_name": "path_test.go",
+            "commits": [
+                {
+                    "commit_id": "9fe1ea6e012a50e169f86108df6bee953b7fb3a8",
+                    "nloc": 54,
+                    "complexity": 10
+                }
+            ]
+        }
+    }
+}

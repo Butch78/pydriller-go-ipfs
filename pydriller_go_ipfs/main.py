@@ -1,6 +1,9 @@
-from gettext import install
 from pydriller import Repository
 from github import Github
+import json
+from fastapi.encoders import jsonable_encoder
+from pydantic import BaseModel
+from typing import Optional
 
 
 
@@ -52,16 +55,71 @@ end_tag = 'v0.10.0'
 # Merge this information to identify the hot spots of the project
 
 
-#  Complexity of the repo
+
+class Modified_Files(BaseModel):
+    Files: dict = None
+
+
+class File(BaseModel):
+    file_name: str
+    commits: Optional[list]
+
+
+class Commit(BaseModel):
+    commit_id: Optional[str]
+    nloc: Optional[int]
+    complexity: Optional[int]
+
+
+commit_count = 0
+number_of_changes = 0
+# Empty list to store the changes
+
+all_files = Modified_Files(Files={})
+
 for commit in Repository('../go-ipfs', from_tag=start_tag, to_tag=end_tag).traverse_commits():
+    commit_count += 1
+
     for m in commit.modified_files:
-        print(
-            "Author {}".format(commit.author.name),
-            " modified {}".format(m.filename),
-            " with a change type of {}".format(m.change_type.name),
-            " and the complexity is {}".format(m.dmm_unit_complexity),
-            " and the lines of code are {}".format(m.nloc),
-            " and the methods of the code {}".format(m.methods),
-        )
+        if m.filename.endswith(".go"):
+            number_of_changes += 1
+
+            #  Check there isn't a file with the same name in the dictionary already
+            if m.filename in all_files.Files:
+                #  If there is, add the commit to the list of commits
+                if m.complexity is not None or m.nloc is not None:
+                    all_files.Files[m.filename].commits.append(Commit(commit_id=commit.hash, nloc=m.nloc, complexity=m.complexity))
+            else:
+                #  If not, create a new file with the commit
+
+                all_files.Files[m.filename] = File(file_name=m.filename, commits=[Commit(commit_id=commit.hash, nloc=m.nloc, complexity=m.complexity)])
+
+        
+            
+#  Export Files Dictionary to a json file
+
+print_files = jsonable_encoder(all_files)
+
+with open('files.json', 'w') as outfile:
+    json.dump(print_files, outfile)
+
+# Import Dictionary string from the json file
 
 
+
+with open('files.json') as json_file:
+    Files = json.load(json_file)
+    modified_Files =Modified_Files(**Files)
+
+
+
+
+
+
+# STEP 7: Visualization of the Hot Spots
+
+
+
+# STEP 8: Analysis of 6 of the Hot Spots
+# a) Complexity trend analysis
+# b) Manaul analysis of the entity names and content

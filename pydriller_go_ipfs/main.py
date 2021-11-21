@@ -13,7 +13,7 @@ g = Github("ADD_YOUR_OWN_API_KEY")
 
 
 # STEP 2: Decide on granularity of the project
-# Files for now as we can identify the modified files easily
+# Files Go files for now as we can identify the modified files easily
 
 
 
@@ -39,8 +39,9 @@ g = Github("ADD_YOUR_OWN_API_KEY")
 # It measures 
 #  - the number of functions
 #  - the nloc (number of lines of code without comments)
-#  - token count of the functions
-#  - parameter count of the functions
+# TODO:
+#  - token count of the functions ??
+#  - parameter count of the functions ??
 
 
 # STEP 5:
@@ -49,6 +50,8 @@ start_tag =  'v0.5.0'
 end_tag = 'v0.10.0'
 # Might tweak the timeframe to be more specific if needed
 # Futher explanation will be needed to be added
+
+
 
 # STEP 6:
 # Measure the complexity of the project and number of changes 
@@ -69,6 +72,7 @@ class Commit(BaseModel):
     commit_id: Optional[str]
     nloc: Optional[int]
     complexity: Optional[int]
+    changed_methods: Optional[str]
 
 
 commit_count = 0
@@ -110,6 +114,9 @@ with open('files.json', 'w') as outfile:
 with open('files.json') as json_file:
     Files = json.load(json_file)
     modified_Files =Modified_Files(**Files)
+
+
+
 
 
 
